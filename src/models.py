@@ -8,7 +8,8 @@ class SearchRequest(BaseModel):
 
 class SearchResponse(BaseModel):
     model_used: str
-    timing: Dict[str, Any]
+    query_time: float
+    number_of_results: int
     results: List[Dict[str, Any]]
 
 class TrainingRequest(BaseModel):

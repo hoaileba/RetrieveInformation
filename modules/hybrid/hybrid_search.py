@@ -47,10 +47,10 @@ class HybridSearch:
         # Step 2: Use HuggingFace model on filtered documents
         filtered_docs = [doc for doc in bm25_results['results']]
         list_ids = [doc['id'] for doc in filtered_docs]
-        print(list_ids)
+        print("list_ids: ", list_ids)
 
         hf_start_time = time.time()
-        self.hf_search.documents = filtered_docs
+        # self.hf_search.documents = filtered_docs
         hf_results = self.hf_search.search(query, top_k, list_ids)
         hf_time = time.time() - hf_start_time
         
@@ -62,6 +62,6 @@ class HybridSearch:
             "timing": {
                 "bm25_time": round(bm25_time, 4),  # Time taken by BM25 filtering
                 "huggingface_time": round(hf_time, 4),  # Time taken by HuggingFace search
-                "total_time": round(total_time, 4)  # Total time taken
+                "query_time": round(total_time, 4)  # Total time taken
             }
         } 

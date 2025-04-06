@@ -12,7 +12,7 @@ import logging
 
 
 class HuggingFaceSearch:
-    def __init__(self, model_name: str = "BAAI/bge-m3", documents: List[str] = [], embeddings_path: str = ""):
+    def __init__(self, model_name: str = "BAAI/bge-m3", documents: List[Dict[str, Any]] = [], embeddings_path: str = ""):
         print(f"Loading HuggingFace model {model_name}")
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         self.tokenizer = AutoTokenizer.from_pretrained(model_name)
@@ -98,13 +98,24 @@ class HuggingFaceSearch:
         # Get top k results
         ranking_start = time.time()
         top_k_indices = np.argsort(similarities)[-top_k:][::-1]
-        
+        # print("documents: ", len(self.documents))
         results = []
         for idx in top_k_indices:
+
+            # print("idx: ", idx)
+            # print("self.documents[idx]: ", self.documents[idx])
+            title = self.documents[idx].get("name", "")
+            if title == "":
+                title = self.documents[idx].get("title", "")
+            
+            description = self.documents[idx].get("processed_text", "")
+            if description == "":
+                description = self.documents[idx].get("description", "")
+            
             results.append({
-                "document_id": int(idx),
-                "score": float(similarities[idx]),
-                "text": self.documents[idx]
+                "id": self.documents[idx]["id"],
+                "title": title,
+                "description": description[:200] + "..."
             })
         ranking_time = time.time() - ranking_start
         
@@ -116,6 +127,6 @@ class HuggingFaceSearch:
                 "embedding_time": round(embedding_time, 4),
                 "similarity_time": round(similarity_time, 4),
                 "ranking_time": round(ranking_time, 4),
-                "total_time": round(total_time, 4)
+                "query_time": round(total_time, 4)
             }
         }

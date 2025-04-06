@@ -9,7 +9,7 @@ from modules.huggingface_model.huggingface_model import HuggingFaceSearch
 from modules.hybrid.hybrid_search import HybridSearch
 from src.eval import evaluate_model, load_queries, load_relevance_judgments
 import logging
-
+import copy
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
@@ -17,6 +17,9 @@ documents = []
 with open("datasets/processed/processed_data.json", "r", encoding="utf-8") as f:
     documents = json.load(f)
 
+mapping_disease_id_to_disease_name = {}
+for disease in documents:
+    mapping_disease_id_to_disease_name[disease["id"]] = disease
 
 app = FastAPI()
 
@@ -29,12 +32,12 @@ EMBEDDING_PATH = os.path.join(MODEL_DIR, "huggingface/embeddings.pkl")
 logger.info(f"Embedding path: {EMBEDDING_PATH}")
 
 logger.info("Loading BM25 model")
-bm25_model = BM25(documents=documents)
+bm25_model = BM25(documents=copy.deepcopy(documents))
 bm25_model.fit()
 logger.info("Loading HuggingFace model")
-huggingface_model = HuggingFaceSearch(documents=documents, embeddings_path=EMBEDDING_PATH)
+huggingface_model = HuggingFaceSearch(documents=copy.deepcopy(documents), embeddings_path=EMBEDDING_PATH)
 logger.info("Loading Hybrid model")
-hybrid_model = HybridSearch(documents=documents, bm25=bm25_model, hf_search=huggingface_model, bm25_filter_k=30)
+hybrid_model = HybridSearch(documents=copy.deepcopy(documents), bm25=bm25_model, hf_search=huggingface_model, bm25_filter_k=30)
 
 @app.post("/evaluate")
 async def evaluate(request: Dict[str, Any]):
@@ -90,9 +93,25 @@ async def search(request: SearchRequest):
         results = hybrid_model.search(request.query, request.top_k)
     else:
         raise HTTPException(status_code=400, detail="Invalid model type")
-        
-    return SearchResponse(results=results['results'], model_used=request.model_type, timing=results['timing'])
+    
+    return SearchResponse(
+        results=results['results'], 
+        model_used=request.model_type, 
+        query_time=results['timing']['query_time'], 
+        number_of_results=len(results['results'])
+    )
 
 @app.get("/health")
 def health():
     return {"message": "OK"}
+
+
+@app.get("/disease/{disease_id}")
+async def get_disease(disease_id: int):
+    disease = mapping_disease_id_to_disease_name[disease_id]
+    result = {
+        "id": disease_id,
+        "title": disease["name"],
+        "content": disease["original_text"]
+    }
+    return result

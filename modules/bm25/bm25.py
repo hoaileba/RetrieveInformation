@@ -130,11 +130,23 @@ class BM25:
         if top_k > 0:
             results = []
             for index in scores_index[:top_k]:
-                results.append(self.documents[index])
+                results.append(
+                    {
+                        "id": self.documents[index]["id"],
+                        "title": self.documents[index]["name"],
+                        "description": self.documents[index]["processed_text"][:200] + "..."
+                    }
+                )
         else:
             results = []
             for index in scores_index:
-                results.append(self.documents[index])
+                results.append(
+                    {
+                        "id": self.documents[index]["id"],
+                        "title": self.documents[index]["name"],
+                        "description": self.documents[index]["processed_text"][:200] + "..."
+                    }
+                )
         sorting_time = time.time() - sorting_start
         
         total_time = time.time() - start_time
@@ -145,7 +157,7 @@ class BM25:
                 "preprocess_time": round(preprocess_time, 4),
                 "scoring_time": round(scoring_time, 4),
                 "sorting_time": round(sorting_time, 4),
-                "total_time": round(total_time, 4)
+                "query_time": round(total_time, 4)
             }
         }
         
