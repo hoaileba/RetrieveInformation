@@ -1,0 +1,2292 @@
+[
+  {
+    "query": "12",
+    "query_content": "Theo ths.bs đinh thị hiền lê, bệnh tăng huyết áp khi mang thai có thể xuất hiện như thế nào?",
+    "label": [
+      "tang-huyet-ap-thai-ky"
+    ]
+  },
+  {
+    "query": "13",
+    "query_content": "Khi nào các dấu hiệu cao huyết áp thường xuất hiện ở phụ nữ mang thai?",
+    "label": [
+      "tang-huyet-ap-thai-ky"
+    ]
+  },
+  {
+    "query": "14",
+    "query_content": "Dấu hiệu nào không phải là biểu hiện của tăng huyết áp khi mang thai?",
+    "label": [
+      "tang-huyet-ap-thai-ky"
+    ]
+  },
+  {
+    "query": "15",
+    "query_content": "Triệu chứng nào liên quan đến mắt khi có tăng huyết áp ở phụ nữ mang thai?",
+    "label": [
+      "tang-huyet-ap-thai-ky"
+    ]
+  },
+  {
+    "query": "8",
+    "query_content": "Nếu viêm cầu thận kéo dài, người bệnh sẽ đối mặt với nguy cơ gì?",
+    "label": [
+      "viem-cau-than"
+    ]
+  },
+  {
+    "query": "16",
+    "query_content": "Khi mang thai và gặp triệu chứng nào, thai phụ nên đến gặp bác sĩ ngay?",
+    "label": [
+      "tang-huyet-ap-thai-ky"
+    ]
+  },
+  {
+    "query": "11",
+    "query_content": "Nếu bạn có 3 dấu hiệu của viêm cầu thận và sau 2 ngày có thêm 2 dấu hiệu nữa, tổng cộng bạn có bao nhiêu dấu hiệu?",
+    "label": [
+      "viem-cau-than"
+    ]
+  },
+  {
+    "query": "6",
+    "query_content": "Khi nào bạn cần đến gặp bác sĩ nếu nghi ngờ mình bị viêm cầu thận?",
+    "label": [
+      "viem-cau-than"
+    ]
+  },
+  {
+    "query": "10",
+    "query_content": "Bệnh viêm cầu thận nếu kéo dài có thể dẫn đến bệnh lý nào khác?",
+    "label": [
+      "viem-cau-than"
+    ]
+  },
+  {
+    "query": "17",
+    "query_content": "Nếu một thai phụ có 2 triệu chứng của tăng huyết áp và sau 3 ngày có thêm 3 triệu chứng nữa, tổng cộng cô ấy có bao nhiêu triệu chứng?",
+    "label": [
+      "tang-huyet-ap-thai-ky"
+    ]
+  },
+  {
+    "query": "7",
+    "query_content": "Viêm cầu thận có thể gây ảnh hưởng đến gì trong thời gian đầu?",
+    "label": [
+      "viem-cau-than"
+    ]
+  },
+  {
+    "query": "9",
+    "query_content": "Dựa vào thông tin từ đoạn văn, bệnh lý nào không được đề cập?",
+    "label": [
+      "viem-cau-than"
+    ]
+  },
+  {
+    "query": "0",
+    "query_content": "Nếu viêm da dị ứng tiếp xúc bắt đầu giảm đi sau 3 tuần, bao nhiêu tuần nữa bệnh có thể khỏi hoàn toàn?",
+    "label": [
+      "viem-da-di-ung"
+    ]
+  },
+  {
+    "query": "3",
+    "query_content": "Nguyên nhân nào dưới đây không phải là yếu tố gây ra viêm da dị ứng tiếp xúc?",
+    "label": [
+      "viem-da-di-ung"
+    ]
+  },
+  {
+    "query": "5",
+    "query_content": "Loại viêm da dị ứng nào khó kiểm soát hoàn toàn được bệnh?",
+    "label": [
+      "viem-da-di-ung"
+    ]
+  },
+  {
+    "query": "1",
+    "query_content": "Loại viêm da dị ứng nào thường gặp ở người có gien dị ứng?",
+    "label": [
+      "viem-da-di-ung"
+    ]
+  },
+  {
+    "query": "4",
+    "query_content": "Tình trạng nào là biểu hiện nặng của viêm da dị ứng, cho phép vi trùng xâm nhập?",
+    "label": [
+      "viem-da-di-ung"
+    ]
+  },
+  {
+    "query": "2",
+    "query_content": "Viêm da dị ứng loại nào thường phát triển mạnh vào mùa đông?",
+    "label": [
+      "viem-da-di-ung"
+    ]
+  },
+  {
+    "query": "19",
+    "query_content": "Trong trường hợp nào sốc điện thường được sử dụng để điều trị?",
+    "label": [
+      "nhip-nhanh-that"
+    ]
+  },
+  {
+    "query": "18",
+    "query_content": "Việc điều trị nhịp nhanh thất phụ thuộc vào gì?",
+    "label": [
+      "nhip-nhanh-that"
+    ]
+  },
+  {
+    "query": "22",
+    "query_content": "Nếu một bệnh nhân đã được điều trị bằng sốc điện và sau đó sử dụng máy ICD, tổng cộng bệnh nhân đã sử dụng bao nhiêu phương pháp điều trị?",
+    "label": [
+      "nhip-nhanh-that"
+    ]
+  },
+  {
+    "query": "23",
+    "query_content": "Bác sĩ nào được nêu trong đoạn văn trên?",
+    "label": [
+      "nhip-nhanh-that"
+    ]
+  },
+  {
+    "query": "24",
+    "query_content": "Trước tiên, bác sĩ sẽ kiểm tra gì khi nghi ngờ bệnh nhân mắc bệnh tắc tĩnh mạch võng mạc?",
+    "label": [
+      "benh-tac-tinh-mach-vong-mac"
+    ]
+  },
+  {
+    "query": "25",
+    "query_content": "Thuốc giãn đồng tử được sử dụng trong quá trình kiểm tra mắt với mục đích gì?",
+    "label": [
+      "benh-tac-tinh-mach-vong-mac"
+    ]
+  },
+  {
+    "query": "21",
+    "query_content": "Phương pháp nào sử dụng điện cực để tiêu diệt vùng mô cơ tim gây ra loạn nhịp?",
+    "label": [
+      "nhip-nhanh-that"
+    ]
+  },
+  {
+    "query": "20",
+    "query_content": "Máy khử rung tim cấy được (icd) có tác dụng gì?",
+    "label": [
+      "nhip-nhanh-that"
+    ]
+  },
+  {
+    "query": "28",
+    "query_content": "Nếu một bác sĩ sử dụng cả kính soi đáy mắt và chụp mạch huỳnh quang để kiểm tra võng mạc, bác sĩ đã sử dụng bao nhiêu kỹ thuật kiểm tra?",
+    "label": [
+      "benh-tac-tinh-mach-vong-mac"
+    ]
+  },
+  {
+    "query": "26",
+    "query_content": "Bệnh nhân nên làm gì nếu từng dị ứng với thuốc giãn đồng tử?",
+    "label": [
+      "benh-tac-tinh-mach-vong-mac"
+    ]
+  },
+  {
+    "query": "29",
+    "query_content": "Chụp mạch huỳnh quang giúp bác sĩ quan sát gì?",
+    "label": [
+      "benh-tac-tinh-mach-vong-mac"
+    ]
+  },
+  {
+    "query": "27",
+    "query_content": "Kỹ thuật nào cho ra hình ảnh về võng mạc có độ rõ nét cao?",
+    "label": [
+      "benh-tac-tinh-mach-vong-mac"
+    ]
+  },
+  {
+    "query": "45",
+    "query_content": "Nguyên nhân gây ra bệnh giang mai là gì?",
+    "label": [
+      "benh-giang-mai"
+    ]
+  },
+  {
+    "query": "46",
+    "query_content": "Hình dạng của vi khuẩn gây giang mai giống như gì?",
+    "label": [
+      "benh-giang-mai"
+    ]
+  },
+  {
+    "query": "49",
+    "query_content": "Bệnh giang mai có thể lây truyền trong thời kỳ nào?",
+    "label": [
+      "benh-giang-mai"
+    ]
+  },
+  {
+    "query": "41",
+    "query_content": "Theo bs. Đinh Thị Hiền Lê, ai là nguồn an ủi quan trọng giúp mẹ vượt qua nỗi đau mất thai?",
+    "label": [
+      "thai-luu"
+    ]
+  },
+  {
+    "query": "37",
+    "query_content": "Bao lâu sau khi phẫu thuật thai lưu mẹ cần thời gian để hồi phục sức khỏe?",
+    "label": [
+      "thai-luu"
+    ]
+  },
+  {
+    "query": "47",
+    "query_content": "Ở nhiệt độ bao nhiêu thì xoắn khuẩn phát triển tốt nhất?",
+    "label": [
+      "benh-giang-mai"
+    ]
+  },
+  {
+    "query": "36",
+    "query_content": "Khi bác sĩ xác định thai nhi không còn, việc gì rất quan trọng?",
+    "label": [
+      "thai-luu"
+    ]
+  },
+  {
+    "query": "48",
+    "query_content": "Cách nào là phổ biến nhất để bệnh giang mai lây truyền?",
+    "label": [
+      "benh-giang-mai"
+    ]
+  },
+  {
+    "query": "38",
+    "query_content": "Sau khi mổ thai lưu, triệu chứng gì tự nhiên xuất hiện ở phụ nữ?",
+    "label": [
+      "thai-luu"
+    ]
+  },
+  {
+    "query": "40",
+    "query_content": "Nếu sau một thời gian sau mất thai, mẹ gặp các triệu chứng trầm cảm, nên làm gì?",
+    "label": [
+      "thai-luu"
+    ]
+  },
+  {
+    "query": "44",
+    "query_content": "Nếu một mẹ cần 8 tuần để hồi phục sức khỏe sau khi phẫu thuật và 2 tuần nữa để tâm lý ổn định, tổng cộng mẹ cần bao lâu để trở lại trạng thái bình thường?",
+    "label": [
+      "thai-luu"
+    ]
+  },
+  {
+    "query": "42",
+    "query_content": "Khi bác sĩ xác định thai nhi không còn, việc gì rất quan trọng?",
+    "label": [
+      "thai-luu"
+    ]
+  },
+  {
+    "query": "43",
+    "query_content": "Bao lâu sau khi phẫu thuật thai lưu mẹ cần thời gian để hồi phục sức khỏe?",
+    "label": [
+      "thai-luu"
+    ]
+  },
+  {
+    "query": "39",
+    "query_content": "Sau khi mất thai, nếu mẹ cảm thấy khó chịu với việc cơ thể tiết sữa, nên làm gì?",
+    "label": [
+      "thai-luu"
+    ]
+  },
+  {
+    "query": "50",
+    "query_content": "Sau khi chữa khỏi bệnh giang mai, bệnh có thể tự tái phát không?",
+    "label": [
+      "benh-giang-mai"
+    ]
+  },
+  {
+    "query": "57",
+    "query_content": "Bệnh hen suyễn được chia làm bao nhiêu cấp độ?",
+    "label": [
+      "hen-suyen"
+    ]
+  },
+  {
+    "query": "58",
+    "query_content": "Cơn hen nào được coi là mức độ nhẹ?",
+    "label": [
+      "hen-suyen"
+    ]
+  },
+  {
+    "query": "59",
+    "query_content": "Trong mức độ nhẹ, loại thuốc nào thường được sử dụng?",
+    "label": [
+      "hen-suyen"
+    ]
+  },
+  {
+    "query": "60",
+    "query_content": "Mức độ nào cần điều trị ở bậc 4 hoặc 5?",
+    "label": [
+      "hen-suyen"
+    ]
+  },
+  {
+    "query": "61",
+    "query_content": "Người bệnh hen suyễn nên làm gì với các tác nhân gây bệnh?",
+    "label": [
+      "hen-suyen"
+    ]
+  },
+  {
+    "query": "64",
+    "query_content": "Không nhận được máu trong vài phút sẽ khiến gì xảy ra cho tế bào thần kinh?",
+    "label": [
+      "thieu-mau-nao"
+    ]
+  },
+  {
+    "query": "62",
+    "query_content": "Theo WHO, thiếu máu não là nguyên nhân dẫn đến tử vong cao thứ mấy?",
+    "label": [
+      "thieu-mau-nao"
+    ]
+  },
+  {
+    "query": "63",
+    "query_content": "Không nhận được máu trong bao lâu sẽ khiến các mô não rơi vào rối loạn?",
+    "label": [
+      "thieu-mau-nao"
+    ]
+  },
+  {
+    "query": "65",
+    "query_content": "Hàng năm, tỷ lệ tử vong do đột quỵ tại Việt Nam là bao nhiêu?",
+    "label": [
+      "thieu-mau-nao"
+    ]
+  },
+  {
+    "query": "67",
+    "query_content": "Thiếu máu não đứng sau những bệnh nào về tỷ lệ tử vong?",
+    "label": [
+      "thieu-mau-nao"
+    ]
+  },
+  {
+    "query": "66",
+    "query_content": "Khi bị thiếu máu não, bộ phận nào của cơ thể cần tiêu thụ đến 20% dưỡng khí?",
+    "label": [
+      "thieu-mau-nao"
+    ]
+  },
+  {
+    "query": "73",
+    "query_content": "Polyp mũi thường xuất hiện dưới dạng gì?",
+    "label": [
+      "benh-polyp-mui"
+    ]
+  },
+  {
+    "query": "74",
+    "query_content": "Triệu chứng nào không thuộc về polyp mũi?",
+    "label": [
+      "benh-polyp-mui"
+    ]
+  },
+  {
+    "query": "76",
+    "query_content": "Nếu 5 người mắc bệnh polyp mũi và mỗi người có 3 triệu chứng, tổng cộng có bao nhiêu triệu chứng?",
+    "label": [
+      "benh-polyp-mui"
+    ]
+  },
+  {
+    "query": "75",
+    "query_content": "Các triệu chứng thứ phát của polyp mũi không bao gồm điều nào sau đây?",
+    "label": [
+      "benh-polyp-mui"
+    ]
+  },
+  {
+    "query": "77",
+    "query_content": "Điều nào sau đây không là một triệu chứng thứ phát của polyp mũi?",
+    "label": [
+      "benh-polyp-mui"
+    ]
+  },
+  {
+    "query": "78",
+    "query_content": "Polyp mũi có thể gây ra triệu chứng nào?",
+    "label": [
+      "benh-polyp-mui"
+    ]
+  },
+  {
+    "query": "51",
+    "query_content": "Loại dược phẩm nào được chỉ định để điều trị bệnh rận mu?",
+    "label": [
+      "benh-ran-mu"
+    ]
+  },
+  {
+    "query": "52",
+    "query_content": "Loại kem nào thường được sử dụng để điều trị bệnh rận mu?",
+    "label": [
+      "benh-ran-mu"
+    ]
+  },
+  {
+    "query": "55",
+    "query_content": "Trong thời gian điều trị rận mu, người mắc bệnh cần tránh gì?",
+    "label": [
+      "benh-ran-mu"
+    ]
+  },
+  {
+    "query": "56",
+    "query_content": "Loại thuốc nào được mô tả là chỉ cần để sản phẩm trên khu vực có rận trong 4 phút rồi rửa sạch?",
+    "label": [
+      "benh-ran-mu"
+    ]
+  },
+  {
+    "query": "54",
+    "query_content": "Cách nào có thể loại bỏ trứng rận cứng đầu trên lông sau khi điều trị?",
+    "label": [
+      "benh-ran-mu"
+    ]
+  },
+  {
+    "query": "68",
+    "query_content": "Nếu có 1000 mẹ bầu, bao nhiêu phần trăm trong số đó sẽ bị đau bụng khi bị u xơ trong tam cá nguyệt thứ nhất?",
+    "label": [
+      "u-xo-tu-cung-khi-mang-thai"
+    ]
+  },
+  {
+    "query": "53",
+    "query_content": "Phụ nữ đang mang thai hoặc cho con bú cần làm gì khi bị bệnh rận mu?",
+    "label": [
+      "benh-ran-mu"
+    ]
+  },
+  {
+    "query": "85",
+    "query_content": "Mề đay biểu hiện thông qua loại nốt nào trên da?",
+    "label": [
+      "me-day"
+    ]
+  },
+  {
+    "query": "86",
+    "query_content": "Nếu trong một nhóm 100 người, 15 người mắc mề đay, phần trăm người mắc mề đay là bao nhiêu?",
+    "label": [
+      "me-day"
+    ]
+  },
+  {
+    "query": "69",
+    "query_content": "Ở giai đoạn nào của thai kỳ khối u xơ tử cung có khả năng xuất hiện cao nhất?",
+    "label": [
+      "u-xo-tu-cung-khi-mang-thai"
+    ]
+  },
+  {
+    "query": "88",
+    "query_content": "Bao nhiêu phần trăm dân số thế giới mắc mề đay?",
+    "label": [
+      "me-day"
+    ]
+  },
+  {
+    "query": "87",
+    "query_content": "Hình dạng của các nốt sần trên da bao gồm?",
+    "label": [
+      "me-day"
+    ]
+  },
+  {
+    "query": "89",
+    "query_content": "Khi không được điều trị, mề đay có thể gây ra biến chứng nào?",
+    "label": [
+      "me-day"
+    ]
+  },
+  {
+    "query": "90",
+    "query_content": "Nếu bị sưng họng do mề đay và không được cấp cứu, một người có thể tử vong trong bao lâu?",
+    "label": [
+      "me-day"
+    ]
+  },
+  {
+    "query": "70",
+    "query_content": "Hormone nào cần thiết để khối u xơ được nuôi dưỡng và phát triển?",
+    "label": [
+      "u-xo-tu-cung-khi-mang-thai"
+    ]
+  },
+  {
+    "query": "72",
+    "query_content": "Mẹ bầu bị u xơ tử cung có thể gặp phải những cơn đau quặn bụng trong suốt ba tam cá nguyệt thai kỳ trong giai đoạn chuyển dạ nhiều nghiên cứu cho thấy, mẹ bầu bị u xơ tử cung được chỉ định sinh mổ cao gấp 6 lần so với những mẹ bầu khác. Lý do là nếu sinh thường, khối u xơ sẽ làm giảm khả năng co bóp của tử cung, khiến cổ tử cung không mở. một số khối u xơ ở vị trí eo tử cung có thể làm tắc ống sinh, ảnh hưởng đến quá trình lọt của ngôi thai, gây khó khăn và làm chậm quá trình sinh nở. bên cạnh đó, mẹ bầu bị u xơ có nhiều khả năng sinh ngôi mông, tức là ngôi thai bị ngược, mông của thai nhi ở phần dưới của tử cung. chính vì thế, bác sĩ sản khoa thường chỉ định sinh mổ để đảm bảo an toàn cho những trường hợp này. sau sinh khoảng 3 đến 6 tháng, những khối u xơ này sẽ giảm dần về kích thước. nghiên cứu cho thấy, 70% phụ nữ từng sinh con có khối u xơ co lại hơn 50% sau khi sinh",
+    "label": [
+      "u-xo-tu-cung-khi-mang-thai"
+    ]
+  },
+  {
+    "query": "71",
+    "query_content": "Mẹ bầu bị u xơ tử cung có thể gặp phải những cơn đau quặn bụng trong suốt ba tam cá nguyệt thai kỳ trong giai đoạn chuyển dạ nhiều nghiên cứu cho thấy, mẹ bầu bị u xơ tử cung được chỉ định sinh mổ cao gấp bao nhiêu lần so với những mẹ bầu khác?",
+    "label": [
+      "u-xo-tu-cung-khi-mang-thai"
+    ]
+  },
+  {
+    "query": "79",
+    "query_content": "Biện pháp nào không phải là cách để ngăn ngừa tình trạng đau tinh hoàn?",
+    "label": [
+      "tieu-buot",
+      "bang-quang-tang-hoat",
+      "viem-nieu-dao",
+      "viem-bang-quang",
+      "viem-tuyen-tien-liet"
+    ]
+  },
+  {
+    "query": "81",
+    "query_content": "Thực phẩm nào không được kể trong danh sách thực phẩm tốt cho sức khỏe tinh hoàn?",
+    "label": [
+      "tieu-buot",
+      "bang-quang-tang-hoat",
+      "viem-nieu-dao",
+      "viem-bang-quang",
+      "viem-tuyen-tien-liet"
+    ]
+  },
+  {
+    "query": "80",
+    "query_content": "Mục đích của việc kiểm tra tinh hoàn mỗi tháng một lần là gì?",
+    "label": [
+      "tieu-buot",
+      "bang-quang-tang-hoat",
+      "viem-nieu-dao",
+      "viem-bang-quang",
+      "viem-tuyen-tien-liet"
+    ]
+  },
+  {
+    "query": "83",
+    "query_content": "Hành động nào không phải là một dịch vụ được cung cấp bởi trung tâm tiết niệu thận học?",
+    "label": [
+      "tieu-buot",
+      "bang-quang-tang-hoat",
+      "viem-nieu-dao",
+      "viem-bang-quang",
+      "viem-tuyen-tien-liet"
+    ]
+  },
+  {
+    "query": "82",
+    "query_content": "Bác sĩ nào không được kể trong danh sách các chuyên gia của trung tâm tiết niệu thận học?",
+    "label": [
+      "tieu-buot",
+      "bang-quang-tang-hoat",
+      "viem-nieu-dao",
+      "viem-bang-quang",
+      "viem-tuyen-tien-liet"
+    ]
+  },
+  {
+    "query": "103",
+    "query_content": "Hội chứng Kallmann có ảnh hưởng đến khả năng gì của người bệnh khi trưởng thành nếu không được điều trị?",
+    "label": [
+      "hoi-chung-kallmann"
+    ]
+  },
+  {
+    "query": "104",
+    "query_content": "Phương pháp nào có thể tăng cường khả năng sinh sản cho người mắc hội chứng Kallmann?",
+    "label": [
+      "hoi-chung-kallmann"
+    ]
+  },
+  {
+    "query": "84",
+    "query_content": "Biện pháp nào có thể giúp ngăn ngừa nhiễm trùng đường tiết niệu?",
+    "label": [
+      "tieu-buot",
+      "bang-quang-tang-hoat",
+      "viem-nieu-dao",
+      "viem-bang-quang",
+      "viem-tuyen-tien-liet"
+    ]
+  },
+  {
+    "query": "105",
+    "query_content": "Hội chứng Kallmann gây nguy hiểm đến tính mạng không?",
+    "label": [
+      "hoi-chung-kallmann"
+    ]
+  },
+  {
+    "query": "106",
+    "query_content": "Người mắc hội chứng Kallmann mắc bệnh trong bao lâu?",
+    "label": [
+      "hoi-chung-kallmann"
+    ]
+  },
+  {
+    "query": "107",
+    "query_content": "Hội chứng Kallmann khi đã được chẩn đoán có thể được quản lý như thế nào?",
+    "label": [
+      "hoi-chung-kallmann"
+    ]
+  },
+  {
+    "query": "108",
+    "query_content": "Người mắc hội chứng Kallmann có thể bị chẩn đoán nhầm là gì?",
+    "label": [
+      "hoi-chung-kallmann"
+    ]
+  },
+  {
+    "query": "97",
+    "query_content": "Nguyên nhân chính xác của thay đổi sợi bọc tuyến vú là gì?",
+    "label": [
+      "thay-doi-soi-boc-tuyen-vu"
+    ]
+  },
+  {
+    "query": "98",
+    "query_content": "Hormone nào được nghi ngờ gây ra thay đổi sợi bọc tuyến vú?",
+    "label": [
+      "thay-doi-soi-boc-tuyen-vu"
+    ]
+  },
+  {
+    "query": "99",
+    "query_content": "Lúc nào thay đổi sợi bọc vú có xu hướng khó chịu hơn?",
+    "label": [
+      "thay-doi-soi-boc-tuyen-vu"
+    ]
+  },
+  {
+    "query": "101",
+    "query_content": "Công thức toán học nào biểu thị khoảng thời gian mà thay đổi sợi bọc tuyến vú thường diễn ra?",
+    "label": [
+      "thay-doi-soi-boc-tuyen-vu"
+    ]
+  },
+  {
+    "query": "100",
+    "query_content": "Những thay đổi sợi bọc tuyến vú thường xuyên diễn ra ở lứa tuổi nào?",
+    "label": [
+      "thay-doi-soi-boc-tuyen-vu"
+    ]
+  },
+  {
+    "query": "102",
+    "query_content": "Nếu có dấu hiệu đau vú và khối u bất thường ở vú, bạn nên làm gì?",
+    "label": [
+      "thay-doi-soi-boc-tuyen-vu"
+    ]
+  },
+  {
+    "query": "121",
+    "query_content": "Khi thăm khám ban đầu để tìm ra nguyên nhân gây khô âm đạo, bác sĩ thường thăm hỏi gì?",
+    "label": [
+      "kho-am-dao"
+    ]
+  },
+  {
+    "query": "122",
+    "query_content": "Bác sĩ có thể đề nghị chị em tham gia kiểm tra gì để tăng kết quả chẩn đoán khô âm đạo?",
+    "label": [
+      "kho-am-dao"
+    ]
+  },
+  {
+    "query": "123",
+    "query_content": "Mục đích của việc khám vùng chậu là gì?",
+    "label": [
+      "kho-am-dao"
+    ]
+  },
+  {
+    "query": "124",
+    "query_content": "Để xác định nồng độ hormone hoặc tình trạng sức khỏe khác, bác sĩ thường áp dụng kiểm tra nào?",
+    "label": [
+      "kho-am-dao"
+    ]
+  },
+  {
+    "query": "125",
+    "query_content": "Mục đích của việc xét nghiệm mẫu dịch tiết âm đạo là gì?",
+    "label": [
+      "kho-am-dao"
+    ]
+  },
+  {
+    "query": "126",
+    "query_content": "Nếu một bác sĩ muốn đánh giá mô bên trong âm đạo có mỏng, khô và đỏ hay không, anh/chị ta nên tiến hành kiểm tra nào?",
+    "label": [
+      "kho-am-dao"
+    ]
+  },
+  {
+    "query": "109",
+    "query_content": "Người bệnh viêm đường tiết niệu thường cảm thấy khó chịu khi nào?",
+    "label": [
+      "viem-duong-tiet-nieu"
+    ]
+  },
+  {
+    "query": "110",
+    "query_content": "Khi có sỏi ở thận và gây ứ nước, người bệnh sẽ cảm nhận điều gì?",
+    "label": [
+      "viem-duong-tiet-nieu"
+    ]
+  },
+  {
+    "query": "128",
+    "query_content": "Lượng rượu cho phép hàng ngày đối với nam giới là bao nhiêu?",
+    "label": [
+      "tang-huyet-ap-vo-can"
+    ]
+  },
+  {
+    "query": "111",
+    "query_content": "Nếu vi khuẩn xâm nhập vào hệ niệu và lan vào máu, hậu quả nghiêm trọng nhất có thể xảy ra là gì?",
+    "label": [
+      "viem-duong-tiet-nieu"
+    ]
+  },
+  {
+    "query": "127",
+    "query_content": "Yếu tố nguy cơ hàng đầu của tăng huyết áp nguyên phát là gì?",
+    "label": [
+      "tang-huyet-ap-vo-can"
+    ]
+  },
+  {
+    "query": "115",
+    "query_content": "Theo thông tin, khoảng bao nhiêu phần trăm tinh hoàn ẩn không thể sờ thấy?",
+    "label": [
+      "tinh-hoan-an"
+    ]
+  },
+  {
+    "query": "112",
+    "query_content": "Triệu chứng gì thường xuất hiện ở nam giới mắc bệnh viêm đường tiết niệu?",
+    "label": [
+      "viem-duong-tiet-nieu"
+    ]
+  },
+  {
+    "query": "116",
+    "query_content": "Điều gì có thể phát hiện khi một bên túi bìu bình thường và bên còn lại nhỏ hoặc xẹp?",
+    "label": [
+      "tinh-hoan-an"
+    ]
+  },
+  {
+    "query": "129",
+    "query_content": "Lượng rượu cho phép hàng ngày đối với phụ nữ là bao nhiêu?",
+    "label": [
+      "tang-huyet-ap-vo-can"
+    ]
+  },
+  {
+    "query": "113",
+    "query_content": "Nữ giới bị bệnh này thường đi tiểu trong khoảng thời gian nào?",
+    "label": [
+      "viem-duong-tiet-nieu"
+    ]
+  },
+  {
+    "query": "132",
+    "query_content": "Nguyên nhân nào sau đây không được đề cập trong đoạn văn?",
+    "label": [
+      "tang-huyet-ap-vo-can"
+    ]
+  },
+  {
+    "query": "131",
+    "query_content": "Yếu tố nào sau đây không phải là nguy cơ gây tăng huyết áp?",
+    "label": [
+      "tang-huyet-ap-vo-can"
+    ]
+  },
+  {
+    "query": "114",
+    "query_content": "Nếu một người đi tiểu 4 lần trong một giờ, họ có thể bị viêm đường tiết niệu không?",
+    "label": [
+      "viem-duong-tiet-nieu"
+    ]
+  },
+  {
+    "query": "130",
+    "query_content": "Nếu một nam giới uống 3 ly rượu mỗi ngày trong 1 tuần, anh ta đã uống bao nhiêu ly rượu sau 7 ngày?",
+    "label": [
+      "tang-huyet-ap-vo-can"
+    ]
+  },
+  {
+    "query": "139",
+    "query_content": "Biện pháp hàng đầu để ngừa lao là gì?",
+    "label": [
+      "benh-lao-phoi"
+    ]
+  },
+  {
+    "query": "140",
+    "query_content": "Mục đích của vắc xin lao khi vào cơ thể là gì?",
+    "label": [
+      "benh-lao-phoi"
+    ]
+  },
+  {
+    "query": "141",
+    "query_content": "Vắc xin nào đang được sử dụng chủ yếu để tiêm phòng lao cho trẻ em ở nước ta?",
+    "label": [
+      "benh-lao-phoi"
+    ]
+  },
+  {
+    "query": "142",
+    "query_content": "Nên thực hiện biện pháp gì khi thường xuyên tiếp xúc với người mắc bệnh lao?",
+    "label": [
+      "benh-lao-phoi"
+    ]
+  },
+  {
+    "query": "118",
+    "query_content": "Sự khác biệt giữa tinh hoàn ẩn và tinh hoàn lạc chỗ là gì?",
+    "label": [
+      "tinh-hoan-an"
+    ]
+  },
+  {
+    "query": "143",
+    "query_content": "Vắc xin lao giúp cơ thể tạo ra loại miễn dịch nào?",
+    "label": [
+      "benh-lao-phoi"
+    ]
+  },
+  {
+    "query": "119",
+    "query_content": "Triệu chứng nào dưới đây không liên quan đến tinh hoàn ẩn?",
+    "label": [
+      "tinh-hoan-an"
+    ]
+  },
+  {
+    "query": "117",
+    "query_content": "Khi nào có thể gọi là tinh hoàn co rút?",
+    "label": [
+      "tinh-hoan-an"
+    ]
+  },
+  {
+    "query": "144",
+    "query_content": "Ngoài tiêm vắc xin, biện pháp nào không được đề cập trong việc phòng chống lao?",
+    "label": [
+      "benh-lao-phoi"
+    ]
+  },
+  {
+    "query": "120",
+    "query_content": "Tình trạng nào mô tả tinh hoàn di chuyển lên và không thể sử dụng tay để xuống bìu lại?",
+    "label": [
+      "tinh-hoan-an"
+    ]
+  },
+  {
+    "query": "146",
+    "query_content": "Ba yếu tố nào được dùng để phân loại ung thư theo hệ thống TNM?",
+    "label": [
+      "ung-thu-dai-trang-giai-doan-0"
+    ]
+  },
+  {
+    "query": "145",
+    "query_content": "Hệ thống nào được sử dụng để phân loại ung thư đại tràng?",
+    "label": [
+      "ung-thu-dai-trang-giai-doan-0"
+    ]
+  },
+  {
+    "query": "147",
+    "query_content": "Giai đoạn nào của ung thư đại tràng là ung thư tại chỗ, tại lớp niêm mạc?",
+    "label": [
+      "ung-thu-dai-trang-giai-doan-0"
+    ]
+  },
+  {
+    "query": "148",
+    "query_content": "Math question: If one ung thư cell splits into 2 every hour, how many cells will there be after 3 hours?",
+    "label": [
+      "ung-thu-dai-trang-giai-doan-0"
+    ]
+  },
+  {
+    "query": "149",
+    "query_content": "Loại TNM nào mô tả ung thư đại tràng giai đoạn 0?",
+    "label": [
+      "ung-thu-dai-trang-giai-doan-0"
+    ]
+  },
+  {
+    "query": "150",
+    "query_content": "Ở giai đoạn nào, ung thư chưa xâm lấn các lớp khác của đại tràng?",
+    "label": [
+      "ung-thu-dai-trang-giai-doan-0"
+    ]
+  },
+  {
+    "query": "152",
+    "query_content": "Phương pháp nào được khuyến cáo để cắt, bào hoặc mài vật liệu chứa silic?",
+    "label": [
+      "bui-phoi-silic"
+    ]
+  },
+  {
+    "query": "151",
+    "query_content": "Thành phần nào là thủ phạm gây ra bệnh bụi phổi silic?",
+    "label": [
+      "bui-phoi-silic"
+    ]
+  },
+  {
+    "query": "155",
+    "query_content": "Bạn nên tiêm vắc xin gì để phòng ngừa nhiễm trùng đường hô hấp?",
+    "label": [
+      "bui-phoi-silic"
+    ]
+  },
+  {
+    "query": "153",
+    "query_content": "Nên thực hiện hành động nào sau khi làm việc trong môi trường chứa bụi silic?",
+    "label": [
+      "bui-phoi-silic"
+    ]
+  },
+  {
+    "query": "156",
+    "query_content": "Hành động nào không nên thực hiện trong hoặc gần khu vực chứa bụi silic?",
+    "label": [
+      "bui-phoi-silic"
+    ]
+  },
+  {
+    "query": "154",
+    "query_content": "Math question: Nếu bạn tiếp xúc với bụi silic 5 giờ mỗi ngày, bạn sẽ tiếp xúc tổng cộng bao nhiêu giờ trong vòng 7 ngày?",
+    "label": [
+      "bui-phoi-silic"
+    ]
+  },
+  {
+    "query": "134",
+    "query_content": "Đối với tắc nghẽn nhẹ đến trung bình, bác sĩ khuyến nghị gì?",
+    "label": [
+      "dong-mach-canh"
+    ]
+  },
+  {
+    "query": "133",
+    "query_content": "Mục tiêu chính của việc điều trị bệnh động mạch cảnh là gì?",
+    "label": [
+      "dong-mach-canh"
+    ]
+  },
+  {
+    "query": "135",
+    "query_content": "Phương pháp nào được mô tả là một quả bóng được bơm căng để mở rộng động mạch?",
+    "label": [
+      "dong-mach-canh"
+    ]
+  },
+  {
+    "query": "137",
+    "query_content": "Sau khi thực hiện phẫu thuật cắt nội mạc, bác sĩ tiếp tục làm gì?",
+    "label": [
+      "dong-mach-canh"
+    ]
+  },
+  {
+    "query": "136",
+    "query_content": "Nếu 3 người bệnh được chọn để thực hiện phẫu thuật cắt nội mạc và 5 người khác được chọn để đặt stent, tổng cộng có bao nhiêu người đã được can thiệp?",
+    "label": [
+      "dong-mach-canh"
+    ]
+  },
+  {
+    "query": "138",
+    "query_content": "Khi nào bác sĩ sẽ tiến hành can thiệp loại bỏ tắc nghẽn, tái thông động mạch cảnh?",
+    "label": [
+      "dong-mach-canh"
+    ]
+  },
+  {
+    "query": "157",
+    "query_content": "Phương pháp R.I.C.E gồm những biện pháp nào?",
+    "label": [
+      "viem-gan-got-chan-achilles"
+    ]
+  },
+  {
+    "query": "160",
+    "query_content": "Trong trường hợp nào bác sĩ có thể chỉ định can thiệp phẫu thuật cho viêm gân Achilles?",
+    "label": [
+      "viem-gan-got-chan-achilles"
+    ]
+  },
+  {
+    "query": "158",
+    "query_content": "Khi đau gân Achilles, nên làm gì để giảm sưng và đau?",
+    "label": [
+      "viem-gan-got-chan-achilles"
+    ]
+  },
+  {
+    "query": "161",
+    "query_content": "Biện pháp nào giúp giảm căng thẳng cho gân Achilles?",
+    "label": [
+      "viem-gan-got-chan-achilles"
+    ]
+  },
+  {
+    "query": "159",
+    "query_content": "Thuốc nào không được đề cập trong phần điều trị viêm gân Achilles?",
+    "label": [
+      "viem-gan-got-chan-achilles"
+    ]
+  },
+  {
+    "query": "162",
+    "query_content": "Khi gân Achilles bị thoái hóa trong quá trình phẫu thuật, bác sĩ thường làm gì?",
+    "label": [
+      "viem-gan-got-chan-achilles"
+    ]
+  },
+  {
+    "query": "169",
+    "query_content": "Làm thế nào để phòng ngừa mụn ẩn hiệu quả?",
+    "label": [
+      "mun-an"
+    ]
+  },
+  {
+    "query": "181",
+    "query_content": "Nữ giới có khả năng suy giảm ham muốn tình dục cao hơn bao nhiêu lần so với nam giới trong mối quan hệ lâu dài?",
+    "label": [
+      "yeu-sinh-ly-o-nu"
+    ]
+  },
+  {
+    "query": "170",
+    "query_content": "Thực phẩm nào giúp da luôn săn chắc, khỏe mạnh?",
+    "label": [
+      "mun-an"
+    ]
+  },
+  {
+    "query": "182",
+    "query_content": "Độ tuổi nào thường xuất hiện tình trạng suy giảm ham muốn tình dục ở nữ giới?",
+    "label": [
+      "yeu-sinh-ly-o-nu"
+    ]
+  },
+  {
+    "query": "183",
+    "query_content": "Triệu chứng nào dưới đây không phải là dấu hiệu của yếu sinh lý ở nam giới?",
+    "label": [
+      "yeu-sinh-ly-o-nu"
+    ]
+  },
+  {
+    "query": "184",
+    "query_content": "Tại sao yếu sinh lý ở nữ giới khó nhận biết?",
+    "label": [
+      "yeu-sinh-ly-o-nu"
+    ]
+  },
+  {
+    "query": "172",
+    "query_content": "Nên hạn chế sử dụng loại đồ uống nào để giữ da khỏe mạnh?",
+    "label": [
+      "mun-an"
+    ]
+  },
+  {
+    "query": "171",
+    "query_content": "Mụn ẩn là gì?",
+    "label": [
+      "mun-an"
+    ]
+  },
+  {
+    "query": "174",
+    "query_content": "Khi nào nên sử dụng kem chống nắng?",
+    "label": [
+      "mun-an"
+    ]
+  },
+  {
+    "query": "189",
+    "query_content": "Cấu trúc nào giúp điều chỉnh ánh sáng vào mắt giống như cửa trập trong máy ảnh?",
+    "label": [
+      "viem-mang-bo-dao"
+    ]
+  },
+  {
+    "query": "190",
+    "query_content": "Quá trình nào giúp mắt có khả năng tập trung vào các vật thể ở gần hoặc xa?",
+    "label": [
+      "viem-mang-bo-dao"
+    ]
+  },
+  {
+    "query": "173",
+    "query_content": "Tại sao nên áp dụng lối sống điều độ?",
+    "label": [
+      "mun-an"
+    ]
+  },
+  {
+    "query": "192",
+    "query_content": "Bộ phận nào trong mắt chứa tế bào sắc tố và mạch máu nuôi dưỡng các bộ phận bên trong mắt?",
+    "label": [
+      "viem-mang-bo-dao"
+    ]
+  },
+  {
+    "query": "191",
+    "query_content": "Hắc mạc nằm giữa cấu trúc nào và cấu trúc nào của mắt?",
+    "label": [
+      "viem-mang-bo-dao"
+    ]
+  },
+  {
+    "query": "186",
+    "query_content": "Việc nào sau đây không nên thực hiện sau phẫu thuật xốp xơ tai?",
+    "label": [
+      "benh-xop-xo-tai"
+    ]
+  },
+  {
+    "query": "185",
+    "query_content": "Rủi ro nào dưới đây không phải là một biến chứng sau phẫu thuật xốp xơ tai?",
+    "label": [
+      "benh-xop-xo-tai"
+    ]
+  },
+  {
+    "query": "187",
+    "query_content": "Bao lâu sau phẫu thuật xốp xơ tai người bệnh cần chăm sóc vết mổ ít nhất?",
+    "label": [
+      "benh-xop-xo-tai"
+    ]
+  },
+  {
+    "query": "188",
+    "query_content": "Người bệnh cần nghỉ ngơi bao lâu sau khi phẫu thuật xốp xơ tai?",
+    "label": [
+      "benh-xop-xo-tai"
+    ]
+  },
+  {
+    "query": "205",
+    "query_content": "Phương pháp nào chỉ áp dụng cho bệnh trĩ nhẹ?",
+    "label": [
+      "benh-tri"
+    ]
+  },
+  {
+    "query": "202",
+    "query_content": "Điều gì là nguy hiểm đối với người bệnh loãng xương trong sinh hoạt hàng ngày?",
+    "label": [
+      "loang-xuong"
+    ]
+  },
+  {
+    "query": "206",
+    "query_content": "Bác sĩ sử dụng hóa chất trong phương pháp trị bệnh trĩ nào?",
+    "label": [
+      "benh-tri"
+    ]
+  },
+  {
+    "query": "199",
+    "query_content": "Người bệnh loãng xương nên duy trì thói quen thăm khám định kỳ sau mỗi bao lâu?",
+    "label": [
+      "loang-xuong"
+    ]
+  },
+  {
+    "query": "204",
+    "query_content": "Quá trình điều trị loãng xương có thể kéo dài bao lâu?",
+    "label": [
+      "loang-xuong"
+    ]
+  },
+  {
+    "query": "201",
+    "query_content": "Trước khi tập thể dục, người bệnh loãng xương cần khởi động trong bao lâu?",
+    "label": [
+      "loang-xuong"
+    ]
+  },
+  {
+    "query": "200",
+    "query_content": "Nguyên tắc dinh dưỡng cho người bệnh loãng xương cần phải đảm bảo đủ lượng gì?",
+    "label": [
+      "loang-xuong"
+    ]
+  },
+  {
+    "query": "218",
+    "query_content": "Nhóm đối tượng nào sau đây có nguy cơ cao bị nhồi máu não?",
+    "label": [
+      "nhoi-mau-nao"
+    ]
+  },
+  {
+    "query": "217",
+    "query_content": "Nguyên nhân nào sau đây không là yếu tố gây nhồi máu não?",
+    "label": [
+      "nhoi-mau-nao"
+    ]
+  },
+  {
+    "query": "219",
+    "query_content": "Hành vi nào có thể làm gia tăng khả năng hình thành huyết khối bất thường?",
+    "label": [
+      "nhoi-mau-nao"
+    ]
+  },
+  {
+    "query": "203",
+    "query_content": "Máy nào không được nêu trong bài về trang thiết bị chẩn đoán hình ảnh hiện đại?",
+    "label": [
+      "loang-xuong"
+    ]
+  },
+  {
+    "query": "220",
+    "query_content": "Nhân tố nào không làm gia tăng nguy cơ nhồi máu não?",
+    "label": [
+      "nhoi-mau-nao"
+    ]
+  },
+  {
+    "query": "221",
+    "query_content": "Nguy cơ nhồi máu não cao ở đối tượng nào?",
+    "label": [
+      "nhoi-mau-nao"
+    ]
+  },
+  {
+    "query": "222",
+    "query_content": "Hành vi nào không là nguyên nhân gây ra nhồi máu não?",
+    "label": [
+      "nhoi-mau-nao"
+    ]
+  },
+  {
+    "query": "223",
+    "query_content": "Người bạn của bạn, Thu Lan, bị chóng mặt và xây xẩm gần đây. Cô ấy nên lo lắng về bệnh nào?",
+    "label": [
+      "hep-dong-mach-canh"
+    ]
+  },
+  {
+    "query": "226",
+    "query_content": "Bạn của bạn, Thảo, phát hiện mình có mỡ máu cao và béo phì. Cô ấy có nguy cơ mắc bệnh gì?",
+    "label": [
+      "hep-dong-mach-canh"
+    ]
+  },
+  {
+    "query": "225",
+    "query_content": "Nếu Hùng bắt đầu có triệu chứng như chóng mặt, cậu ấy nên thăm khám ở đâu?",
+    "label": [
+      "hep-dong-mach-canh"
+    ]
+  },
+  {
+    "query": "224",
+    "query_content": "Bác sĩ Trung muốn kiểm tra một bệnh nhân có nguy cơ mắc bệnh gì khi người đó hút thuốc lá và có chế độ ăn nhiều đường?",
+    "label": [
+      "hep-dong-mach-canh"
+    ]
+  },
+  {
+    "query": "228",
+    "query_content": "Bạn Hà mới được chẩn đoán mắc bệnh ung thư buồng trứng giai đoạn i. Điều này có nghĩa là tế bào ung thư của cô ấy nằm ở đâu?",
+    "label": [
+      "ung-thu-buong-trung-giai-doan-1"
+    ]
+  },
+  {
+    "query": "229",
+    "query_content": "Trong giai đoạn ung thư buồng trứng I, người bệnh thường biểu hiện các triệu chứng gì?",
+    "label": [
+      "ung-thu-buong-trung-giai-doan-1"
+    ]
+  },
+  {
+    "query": "230",
+    "query_content": "Bạn Thúy lo lắng về khả năng mắc bệnh ung thư buồng trứng giai đoạn I của mình. Làm thế nào để cô ấy phát hiện sớm bệnh này?",
+    "label": [
+      "ung-thu-buong-trung-giai-doan-1"
+    ]
+  },
+  {
+    "query": "231",
+    "query_content": "Phương pháp điều trị chính cho ung thư buồng trứng giai đoạn I là gì?",
+    "label": [
+      "ung-thu-buong-trung-giai-doan-1"
+    ]
+  },
+  {
+    "query": "232",
+    "query_content": "Bác sĩ Nam khuyến nghị cho một số bệnh nhân mắc ung thư buồng trứng giai đoạn I điều trị hóa chất sau khi phẫu thuật. Lý do chính là gì?",
+    "label": [
+      "ung-thu-buong-trung-giai-doan-1"
+    ]
+  },
+  {
+    "query": "209",
+    "query_content": "Dao gì được sử dụng để hạn chế phỏng mô và đau sau mổ?",
+    "label": [
+      "benh-tri"
+    ]
+  },
+  {
+    "query": "210",
+    "query_content": "Thuốc nào không được đề cập để giảm đau khi trị bệnh trĩ tại nhà?",
+    "label": [
+      "benh-tri"
+    ]
+  },
+  {
+    "query": "207",
+    "query_content": "Thời gian ngâm hậu môn trong nước ấm khi trị bệnh trĩ tại nhà là bao lâu?",
+    "label": [
+      "benh-tri"
+    ]
+  },
+  {
+    "query": "208",
+    "query_content": "Để trị bệnh trĩ tại nhà, bạn nên ăn thực phẩm nào?",
+    "label": [
+      "benh-tri"
+    ]
+  },
+  {
+    "query": "227",
+    "query_content": "Trong bao lâu, một người bị chóng mặt và xây xẩm nhưng không đi khám, sẽ có nguy cơ mắc bệnh nhân bị nhồi máu não?",
+    "label": [
+      "hep-dong-mach-canh"
+    ]
+  },
+  {
+    "query": "211",
+    "query_content": "Nguyên nhân phổ biến nhất của chóng mặt khi thay đổi tư thế đột ngột là gì?",
+    "label": [
+      "roi-loan-tien-dinh"
+    ]
+  },
+  {
+    "query": "212",
+    "query_content": "Triệu chứng nào sau đây không phải do bệnh ménière gây ra?",
+    "label": [
+      "roi-loan-tien-dinh"
+    ]
+  },
+  {
+    "query": "234",
+    "query_content": "Xuất tinh sớm ảnh hưởng như thế nào đến đời sống tình dục của người đàn ông?",
+    "label": [
+      "xuat-tinh-som"
+    ]
+  },
+  {
+    "query": "233",
+    "query_content": "Bạn Minh đang lo lắng về vấn đề xuất tinh sớm mà anh ta gặp phải. Theo các chuyên gia, xuất tinh sớm có nguy hiểm đến tính mạng không?",
+    "label": [
+      "xuat-tinh-som"
+    ]
+  },
+  {
+    "query": "237",
+    "query_content": "Xuất tinh sớm cần được xử lý như thế nào?",
+    "label": [
+      "xuat-tinh-som"
+    ]
+  },
+  {
+    "query": "235",
+    "query_content": "Trường hợp nào dưới đây không phải là hậu quả của việc xuất tinh sớm kéo dài?",
+    "label": [
+      "xuat-tinh-som"
+    ]
+  },
+  {
+    "query": "236",
+    "query_content": "Tình huống nào dưới đây ảnh hưởng đến cuộc sống gia đình khi một trong hai người xuất tinh sớm?",
+    "label": [
+      "xuat-tinh-som"
+    ]
+  },
+  {
+    "query": "214",
+    "query_content": "Để giảm triệu chứng do bệnh ménière, bạn nên giảm tiêu thụ gì?",
+    "label": [
+      "roi-loan-tien-dinh"
+    ]
+  },
+  {
+    "query": "213",
+    "query_content": "Nguyên nhân nào sau đây gây ra tình trạng tai trong bị ảnh hưởng nghiêm trọng?",
+    "label": [
+      "roi-loan-tien-dinh"
+    ]
+  },
+  {
+    "query": "248",
+    "query_content": "Trong một bài thuyết trình về các vấn đề sức khỏe, một giảng viên đã đề cập đến các biến chứng của tiểu không tự chủ. Biến chứng nào dưới đây không được nhắc đến?",
+    "label": [
+      "tieu-khong-tu-chu"
+    ]
+  },
+  {
+    "query": "249",
+    "query_content": "Bác sĩ Yến đang chuẩn bị một bài giảng về sức khỏe và muốn nhấn mạnh tới hậu quả lâu dài của việc không điều trị tiểu không tự chủ. Cô ấy nên chú trọng đến biến chứng nào sau đây?",
+    "label": [
+      "tieu-khong-tu-chu"
+    ]
+  },
+  {
+    "query": "215",
+    "query_content": "Dựa trên số lượng các nguyên nhân rối loạn tiền đình được nêu trên, hỏi có bao nhiêu nguyên nhân?",
+    "label": [
+      "roi-loan-tien-dinh"
+    ]
+  },
+  {
+    "query": "245",
+    "query_content": "Lan là một nhà thống kê, cô thường xuyên gặp phải các số liệu thiếu chính xác. Lan đọc được rằng ở Mỹ, có một lượng lớn ca phẫu thuật do hội chứng ống cổ tay mỗi năm. Nếu '000' trong số liệu là một sự thiếu sót và thực tế là 500,000 ca, Lan sẽ nghĩ ngay đến hậu quả gì liên quan đến lực lượng lao động?",
+    "label": [
+      "hoi-chung-ong-co-tay"
+    ]
+  },
+  {
+    "query": "250",
+    "query_content": "Anh Khoa, một nhà nghiên cứu y tế, đang tổng hợp dữ liệu về tiểu không tự chủ. Anh nhận thấy rằng tình trạng ẩm ướt kéo dài có thể gây ra biến chứng gì?",
+    "label": [
+      "tieu-khong-tu-chu"
+    ]
+  },
+  {
+    "query": "243",
+    "query_content": "Trên đường đi làm về, An nhận thấy cửa hàng thuốc mở cửa đến khuya. An nhớ lại bài báo về hội chứng ống cổ tay mà cô đọc được hôm qua. Hội chứng này ảnh hưởng đến bộ phận nào của cơ thể?",
+    "label": [
+      "hoi-chung-ong-co-tay"
+    ]
+  },
+  {
+    "query": "244",
+    "query_content": "Khi Bình đang xem phim về một nhân vật siêu anh hùng có khả năng phục hồi cực nhanh, anh ta tự hỏi liệu có điều trị nào cho hội chứng ống cổ tay không. Nếu hội chứng này được phát hiện sớm, kết quả điều trị có thể như thế nào?",
+    "label": [
+      "hoi-chung-ong-co-tay"
+    ]
+  },
+  {
+    "query": "252",
+    "query_content": "Bác sĩ Hoàng đang tính toán thời gian cần thiết để điều trị cho một bệnh nhân mắc tiểu không tự chủ. Nếu một liệu trình điều trị kéo dài 6 tháng và bệnh nhân đã trải qua 1/3 liệu trình, bác sĩ Hoàng sẽ thông báo cho bệnh nhân biết họ cần điều trị thêm bao nhiêu tháng nữa?",
+    "label": [
+      "tieu-khong-tu-chu"
+    ]
+  },
+  {
+    "query": "251",
+    "query_content": "Chị Linh, 48 tuổi, đang tư vấn cho một nhóm bệnh nhân về cách phòng tránh tiểu không tự chủ. Cô ấy cảnh báo về nguy cơ gì nếu tình trạng này không được giải quyết?",
+    "label": [
+      "tieu-khong-tu-chu"
+    ]
+  },
+  {
+    "query": "216",
+    "query_content": "Triệu chứng nào thường xảy ra với người bị đau đầu migraine?",
+    "label": [
+      "roi-loan-tien-dinh"
+    ]
+  },
+  {
+    "query": "246",
+    "query_content": "Minh đang xem một chương trình nói về nguy cơ tổn thương thần kinh. Trong chương trình, người ta đề cập đến hội chứng ống cổ tay, khiến Minh tự hỏi đau và tê là do chèn ép vào thần kinh nào?",
+    "label": [
+      "hoi-chung-ong-co-tay"
+    ]
+  },
+  {
+    "query": "247",
+    "query_content": "Ngọc, một bác sĩ phẫu thuật thần kinh, tính toán thời gian nghỉ ngơi cho bệnh nhân sau phẫu thuật hội chứng ống cổ tay. Nếu một bệnh nhân cần nghỉ ngơi 6 tuần sau phẫu thuật và hiện đã nghỉ được 2 tuần, Ngọc cần lên kế hoạch cho bệnh nhân nghỉ thêm bao nhiêu tuần nữa?",
+    "label": [
+      "hoi-chung-ong-co-tay"
+    ]
+  },
+  {
+    "query": "260",
+    "query_content": "Giang Mai, một giáo viên yoga, phát hiện mình mang thai 4 tháng. Nếu thai kỳ kéo dài tổng cộng 9 tháng, Giang Mai sẽ cần mang thai thêm bao nhiêu tháng nữa?",
+    "label": [
+      "tai-cuc-som"
+    ]
+  },
+  {
+    "query": "258",
+    "query_content": "Anh Quang, một vận động viên bơi lội 25 tuổi, có một kết quả hình điện tâm đồ khác thường. Dựa vào hiểu biết về tái cực sớm, điều này có thể được xem là bình thường không?",
+    "label": [
+      "tai-cuc-som"
+    ]
+  },
+  {
+    "query": "259",
+    "query_content": "Bác sĩ Huyền, sau khi quan sát tình trạng tái cực sớm trên hình điện tâm đồ của một vận động viên 22 tuổi, nên làm gì tiếp theo?",
+    "label": [
+      "tai-cuc-som"
+    ]
+  },
+  {
+    "query": "261",
+    "query_content": "Trong một bài báo mới đây về sức khỏe tim mạch, một bác sĩ đã viết rằng 'tái cực sớm không còn được coi là hoàn toàn lành tính'. Điều này có nghĩa là gì?",
+    "label": [
+      "tai-cuc-som"
+    ]
+  },
+  {
+    "query": "262",
+    "query_content": "Là một chuyên gia y tế, bạn biết rằng các vận động viên thường có các kết quả hình điện tâm đồ tái cực sớm. Điều này nên được giải thích như thế nào?",
+    "label": [
+      "tai-cuc-som"
+    ]
+  },
+  {
+    "query": "263",
+    "query_content": "Một bác sĩ đang mô tả về sở thích câu cá của mình tại biển cả trong kỳ nghỉ vừa qua, ông ta nhớ lại rằng có một số loại giun xoắn có thể ảnh hưởng đến con người. Dựa trên thông tin đã cho, phương pháp chẩn đoán nào được sử dụng để xác định bệnh nhiễm giun xoắn?",
+    "label": [
+      "giun-xoan"
+    ]
+  },
+  {
+    "query": "266",
+    "query_content": "Một nhóm nghiên cứu sinh hoạt cùng nhau, thảo luận về các bệnh lý do ký sinh trùng gây ra và phương pháp phát hiện chúng. Phương pháp ELISA chủ yếu được dùng để làm gì trong chẩn đoán bệnh nhiễm giun xoắn?",
+    "label": [
+      "giun-xoan"
+    ]
+  },
+  {
+    "query": "264",
+    "query_content": "Trong một bài thuyết trình về động vật học, giáo sư đã nhắc đến sự thích nghi của giun xoắn trong môi trường sống của chúng. Nếu một người có tỷ lệ bạch cầu ái toan trong tổng số lượng bạch cầu là 40%, tình trạng nhiễm bệnh của người đó được phân loại như thế nào?",
+    "label": [
+      "giun-xoan"
+    ]
+  },
+  {
+    "query": "265",
+    "query_content": "Trong cuộc họp về phát triển nông thôn, một nông dân chia sẻ về sự quan trọng của việc phòng tránh ký sinh trùng trong chăn nuôi. Khi nói đến giun xoắn, nếu tỷ lệ bạch cầu ái toan trong máu của một người là 20%, điều đó chỉ ra điều gì?",
+    "label": [
+      "giun-xoan"
+    ]
+  },
+  {
+    "query": "267",
+    "query_content": "Trong một hội thảo y học, có một câu hỏi được đặt ra: 'Nếu một bệnh nhân phát hiện mình bị nhiễm giun xoắn từ 4 tháng trước và biết rằng quá trình phát triển của giun xoắn kéo dài 9 tháng, người bệnh sẽ phải chịu đựng tình trạng nhiễm bệnh trong bao nhiêu tháng nữa?'",
+    "label": [
+      "giun-xoan"
+    ]
+  },
+  {
+    "query": "238",
+    "query_content": "Người bạn tên là Mai khi biết mình bị hở van 3 lá, nên làm gì trước khi quyết định mang thai?",
+    "label": [
+      "ho-van-3-la"
+    ]
+  },
+  {
+    "query": "240",
+    "query_content": "Nếu bạn Lan được chẩn đoán mắc hở van 3 lá từ sớm và tiến hành can thiệp điều trị, tiên lượng của bệnh này như thế nào?",
+    "label": [
+      "ho-van-3-la"
+    ]
+  },
+  {
+    "query": "239",
+    "query_content": "Sau khi bạn Minh tiến hành phẫu thuật thay van, bao lâu anh ấy có thể trở lại cuộc sống bình thường?",
+    "label": [
+      "ho-van-3-la"
+    ]
+  },
+  {
+    "query": "241",
+    "query_content": "Bạn Hùng cần tham khảo ý kiến chuyên gia nào tại BVĐK Tâm Anh Hà Nội về bệnh tim mạch?",
+    "label": [
+      "ho-van-3-la"
+    ]
+  },
+  {
+    "query": "278",
+    "query_content": "Một người đàn ông tên là Minh, đang làm việc trong phòng thí nghiệm về các bệnh thần kinh, bỗng dưng anh ta thấy có cảm giác giống như điện giật trên mặt. Minh nhớ lại một hồ sơ bệnh án mà anh ta từng đọc, bệnh nhân đó cũng mô tả triệu chứng tương tự. Triệu chứng này thường xuất hiện ở bệnh gì?",
+    "label": [
+      "benh-dau-day-than-kinh-sinh-ba"
+    ]
+  },
+  {
+    "query": "279",
+    "query_content": "Hà là một nghệ sĩ trang điểm, cô ấy nhận thấy một số khách hàng của mình cảm thấy đau đớn khi cô chạm vào mặt họ để trang điểm. Cô ấy tò mò về nguyên nhân và tìm hiểu được rằng điều này có thể là do một tình trạng y khoa. Tình trạng nào có thể gây ra cảm giác đau như vậy?",
+    "label": [
+      "benh-dau-day-than-kinh-sinh-ba"
+    ]
+  },
+  {
+    "query": "280",
+    "query_content": "Nam, một bác sĩ, ghi chép rằng một bệnh nhân của anh ta gặp phải những cơn đau dữ dội trên mặt. Bệnh nhân mô tả đau giống như bị gió thổi mạnh vào mặt, kéo dài vài giây đến vài phút. Bác sĩ Nam biết rằng đây là triệu chứng điển hình của một bệnh lý nào?",
+    "label": [
+      "benh-dau-day-than-kinh-sinh-ba"
+    ]
+  },
+  {
+    "query": "281",
+    "query_content": "Trong một bài báo khoa học, người ta mô tả về một cơn đau đặc biệt, nó có thể được kích hoạt bởi việc đánh răng hoặc ăn uống và diễn ra thành từng cơn. Nếu một bệnh nhân trải qua một đợt đau kéo dài 10 ngày, sau đó có một thời kỳ thuyên giảm kéo dài 20 ngày, hỏi trung bình một tháng (30 ngày) bệnh nhân này trải qua bao nhiêu ngày không bị đau?",
+    "label": [
+      "benh-dau-day-than-kinh-sinh-ba"
+    ]
+  },
+  {
+    "query": "282",
+    "query_content": "Lan là một y tá, cô đã quan sát thấy một số bệnh nhân bị đau dây thần kinh sinh ba. Cô ấy tính toán rằng nếu cứ mỗi tháng một bệnh nhân có một đợt đau kéo dài 10 ngày, thì trong một năm, người đó sẽ trải qua bao nhiêu ngày đau?",
+    "label": [
+      "benh-dau-day-than-kinh-sinh-ba"
+    ]
+  },
+  {
+    "query": "242",
+    "query_content": "Bạn Trang có một yếu tố nguy cơ bệnh tim, cô ấy nên làm gì để kiểm soát tốt hơn?",
+    "label": [
+      "ho-van-3-la"
+    ]
+  },
+  {
+    "query": "253",
+    "query_content": "Anh Quang, một nhân viên văn phòng, thường xuyên phải làm việc trước máy tính và gần đây anh ấy bị đau đầu phía trước. Triệu chứng nào sau đây không cần thiết phải anh ấy gặp bác sĩ ngay lập tức?",
+    "label": [
+      "dau-nua-dau-phia-truoc"
+    ]
+  },
+  {
+    "query": "257",
+    "query_content": "Một bài báo y tế đã liệt kê các tình huống cần đến gặp bác sĩ khi bị đau đầu phía trước. Theo bài báo, bệnh nhân nào sau đây nên được khuyến khích tìm kiếm sự chăm sóc y tế ngay lập tức?",
+    "label": [
+      "dau-nua-dau-phia-truoc"
+    ]
+  },
+  {
+    "query": "255",
+    "query_content": "Bác sĩ Hùng đang tiếp nhận một bệnh nhân 55 tuổi với cơn đau nửa đầu phía trước. Cơn đau đầu nào sau đây không cần thiết phải được bác sĩ Hùng xem xét ngay lập tức?",
+    "label": [
+      "dau-nua-dau-phia-truoc"
+    ]
+  },
+  {
+    "query": "254",
+    "query_content": "Chị Mai, một cô giáo mầm non, gần đây phải chăm sóc nhiều trẻ hơn và cảm thấy đau đầu phía trước nhiều lần. Cô ấy nên đặc biệt lo ngại nếu cơn đau đầu phía trước đi kèm với triệu chứng nào sau đây?",
+    "label": [
+      "dau-nua-dau-phia-truoc"
+    ]
+  },
+  {
+    "query": "256",
+    "query_content": "Bác sĩ Lan là một chuyên gia về hệ thần kinh, và cô đang chuẩn bị một bài giảng về các dấu hiệu nguy hiểm của đau nửa đầu phía trước. Bác sĩ Lan cần nhấn mạnh rằng đau nửa đầu nào không phải là dấu hiệu nguy cấp?",
+    "label": [
+      "dau-nua-dau-phia-truoc"
+    ]
+  },
+  {
+    "query": "283",
+    "query_content": "Anh Khoa, một đầu bếp, đọc được thông tin rằng rối loạn thần kinh có thể là một biến chứng nguy hiểm của ngộ độc thực phẩm. Anh ta muốn biết triệu chứng nào sau đây không phải là dấu hiệu của rối loạn thần kinh do ngộ độc thực phẩm?",
+    "label": [
+      "ngo-doc-thuc-pham"
+    ]
+  },
+  {
+    "query": "285",
+    "query_content": "Tiến sĩ Minh, chuyên gia về an toàn thực phẩm, giảng dạy cho sinh viên rằng ngộ độc thực phẩm có thể gây rối loạn tim mạch. Ông muốn kiểm tra sự hiểu biết của sinh viên về các dấu hiệu và yêu cầu họ chỉ ra triệu chứng nào không liên quan?",
+    "label": [
+      "ngo-doc-thuc-pham"
+    ]
+  },
+  {
+    "query": "284",
+    "query_content": "Chị Linh, một y tá trong phòng cấp cứu, thấy rằng nhiều bệnh nhân ngộ độc thực phẩm than phiền về đau bụng dữ dội. Chị nhận ra một triệu chứng nào sau đây không phải là biến chứng của ngộ độc thực phẩm?",
+    "label": [
+      "ngo-doc-thuc-pham"
+    ]
+  },
+  {
+    "query": "288",
+    "query_content": "Bác sĩ Hùng là chuyên gia về tai mũi họng và ông đang chuẩn bị cho một bài giảng về viêm xoang. Ông muốn nhấn mạnh tầm quan trọng của chụp CT trong chẩn đoán viêm xoang bướm. Bác sĩ sẽ hỏi sinh viên của mình câu hỏi nào sau đây để kiểm tra hiểu biết của họ?",
+    "label": [
+      "viem-xoang-buom"
+    ]
+  },
+  {
+    "query": "292",
+    "query_content": "Trong một hội nghị y khoa, bác sĩ Anh đang thảo luận về các phương pháp chẩn đoán viêm xoang bướm. Ông đặt câu hỏi cho đồng nghiệp: 'Ngoài chụp CT, kỹ thuật nào khác cũng quan trọng trong chẩn đoán viêm xoang bướm mà ta không nên bỏ qua?'",
+    "label": [
+      "viem-xoang-buom"
+    ]
+  },
+  {
+    "query": "290",
+    "query_content": "Bác sĩ Mai đang viết một bài nghiên cứu về viêm xoang bướm và muốn mô tả các triệu chứng không điển hình của bệnh. Bác sĩ sẽ mô tả triệu chứng nào sau đây là không điển hình cho viêm xoang bướm?",
+    "label": [
+      "viem-xoang-buom"
+    ]
+  },
+  {
+    "query": "289",
+    "query_content": "Chị Lan, một bệnh nhân 35 tuổi, đến phòng khám vì đau đầu không điển hình. Bác sĩ nghi ngờ chị có thể mắc viêm xoang bướm và quyết định gửi chị đi chụp CT. Trong trường hợp chị Lan bị viêm xoang bướm, hình ảnh chụp CT sẽ cho thấy điều gì?",
+    "label": [
+      "viem-xoang-buom"
+    ]
+  },
+  {
+    "query": "291",
+    "query_content": "Tiến sĩ Tú đang nghiên cứu về viêm xoang bướm và muốn tính toán tỷ lệ phát hiện tình cờ qua chụp CT của bệnh. Ông đã xem xét 500 hồ sơ bệnh án và phát hiện ra rằng 1% bệnh nhân có hình ảnh CT cho thấy viêm xoang bướm mà không có triệu chứng. Hỏi có bao nhiêu bệnh nhân được phát hiện tình cờ viêm xoang bướm?",
+    "label": [
+      "viem-xoang-buom"
+    ]
+  },
+  {
+    "query": "286",
+    "query_content": "Bà Hoa, người phụ nữ 70 tuổi, vừa được chẩn đoán ngộ độc thực phẩm và đang lo lắng về sức khỏe của mình. Cô y tá giải thích rằng sức đề kháng giảm sút là một vấn đề đặc biệt nguy hiểm cho những người như bà. Y tá đang cố gắng xác định nguy cơ cao nhất đối với bà Hoa, dựa trên thông tin nào sau đây không liên quan?",
+    "label": [
+      "ngo-doc-thuc-pham"
+    ]
+  },
+  {
+    "query": "287",
+    "query_content": "Một nhóm các nhà nghiên cứu đang tiến hành một nghiên cứu về tác động của ngộ độc thực phẩm đối với sức khỏe. Họ muốn tính toán tỷ lệ tử vong do biến chứng nguy hiểm của ngộ độc thực phẩm trong một năm. Nếu trong năm đầu tiên, có 1000 trường hợp ngộ độc thực phẩm và 10% trong số đó gặp biến chứng nguy hiểm, trong đó 5% dẫn đến tử vong, hỏi có bao nhiêu trường hợp tử vong?",
+    "label": [
+      "ngo-doc-thuc-pham"
+    ]
+  },
+  {
+    "query": "273",
+    "query_content": "Một giáo sư y học đang giảng về các bệnh ngoài da và nhấn mạnh rằng triệu chứng đặc trưng đầu tiên của bệnh chàm thường là gì?",
+    "label": [
+      "benh-cham"
+    ]
+  },
+  {
+    "query": "277",
+    "query_content": "Một nghiên cứu mới được công bố về bệnh chàm và các yếu tố ảnh hưởng đến mức độ nặng của bệnh. Tình trạng da nào không phải là triệu chứng của bệnh chàm?",
+    "label": [
+      "benh-cham"
+    ]
+  },
+  {
+    "query": "274",
+    "query_content": "Trong một buổi hội thảo về bệnh nhi khoa, bác sĩ đã mô tả bệnh chàm ở trẻ sơ sinh thường xuất hiện ở đâu?",
+    "label": [
+      "benh-cham"
+    ]
+  },
+  {
+    "query": "276",
+    "query_content": "Một chuyên gia da liễu đang trình bày về bệnh chàm ở người lớn. Bệnh chàm có thể làm thay đổi màu sắc da ở người da sẫm màu như thế nào?",
+    "label": [
+      "benh-cham"
+    ]
+  },
+  {
+    "query": "275",
+    "query_content": "Trong một chương trình đào tạo liên tục cho các y tá chuyên ngành da liễu, được yêu cầu đánh giá một ca bệnh chàm ở trẻ nhỏ. Những vị trí nào thường gặp phải phát ban do bệnh chàm?",
+    "label": [
+      "benh-cham"
+    ]
+  },
+  {
+    "query": "303",
+    "query_content": "Anh Khoa, một nhân viên văn phòng, thường xuyên phải làm việc trong môi trường điều hòa và dùng nước hoa hàng ngày. Anh ấy bắt đầu cảm thấy khó chịu ở mũi và nghi ngờ mình có thể bị viêm mũi dị ứng. Yếu tố nào dưới đây không phải là nguyên nhân gây viêm mũi dị ứng?",
+    "label": [
+      "viem-mui-di-ung"
+    ]
+  },
+  {
+    "query": "304",
+    "query_content": "Chị Hồng, một bác sĩ da liễu, nhận thấy rằng số lượng bệnh nhân đến khám về dị ứng tăng cao trong mùa xuân. Dựa vào kinh nghiệm của mình, chị suy luận nguyên nhân chính. Yếu tố nào dưới đây ít có khả năng là nguyên nhân gây tăng số lượng bệnh nhân mắc viêm mũi dị ứng vào mùa xuân?",
+    "label": [
+      "viem-mui-di-ung"
+    ]
+  },
+  {
+    "query": "305",
+    "query_content": "Linh, 10 tuổi, đã có tiền sử dị ứng với phấn hoa và bệnh chàm da. Cô bé muốn biết mình có nguy cơ mắc viêm mũi dị ứng hay không. Dựa trên lịch sử y tế của cô bé, những yếu tố nào sau đây làm tăng nguy cơ mắc viêm mũi dị ứng?",
+    "label": [
+      "viem-mui-di-ung"
+    ]
+  },
+  {
+    "query": "306",
+    "query_content": "Ngọc là một sinh viên đại học và cũng là một tình nguyện viên cho các dự án môi trường. Anh ấy đang chuẩn bị một bài thuyết trình về viêm mũi dị ứng và muốn nêu các yếu tố kích hoạt bệnh. Những yếu tố nào sau đây anh ta nên đưa vào bài thuyết trình của mình?",
+    "label": [
+      "viem-mui-di-ung"
+    ]
+  },
+  {
+    "query": "307",
+    "query_content": "Anh Nam, một kỹ sư môi trường, quan sát thấy một số đồng nghiệp của mình bắt đầu có triệu chứng hắt hơi và ngứa mắt khi mùa hè đến. Anh muốn xác định những yếu tố môi trường nào có thể góp phần vào vấn đề này. Các yếu tố nào sau đây không phải là nguyên nhân thường gặp của viêm mũi dị ứng trong mùa hè?",
+    "label": [
+      "viem-mui-di-ung"
+    ]
+  },
+  {
+    "query": "293",
+    "query_content": "Trước khi đến phòng khám của bác sĩ Nguyễn, một người đàn ông thường xuyên gặp vấn đề khi ngủ đã thử nhiều phương pháp khác nhau. Ông ta đã áp dụng phương pháp nào sau đây?",
+    "label": [
+      "mat-ngu"
+    ]
+  },
+  {
+    "query": "296",
+    "query_content": "Bà Lan, ở tuổi 60, thường xuyên gặp phải cảm giác mệt mỏi do mất ngủ. Trong các biện pháp không dùng thuốc dưới đây, biện pháp nào không được bà ấy áp dụng để cải thiện tình trạng của mình?",
+    "label": [
+      "mat-ngu"
+    ]
+  },
+  {
+    "query": "313",
+    "query_content": "Anh Hoàng, một sinh viên y khoa, đang nghiên cứu về tinh hoàn ẩn và muốn xác định vị trí của chúng. Anh ta đề cập đến hai phương pháp thăm dò không xâm lấn. Phương pháp thăm dò nào có độ chính xác cao hơn mà anh ta nên sử dụng?",
+    "label": [
+      "tinh-hoan-an",
+      "tinh-hoan-lac-cho"
+    ]
+  },
+  {
+    "query": "295",
+    "query_content": "Anh Khoa là một nhà thiền định chuyên nghiệp, anh ta đã áp dụng phương pháp không dùng thuốc để chữa trị mất ngủ. Phương pháp nào sau đây không phải là phương pháp mà anh ta đã sử dụng?",
+    "label": [
+      "mat-ngu"
+    ]
+  },
+  {
+    "query": "294",
+    "query_content": "Chị Mai, một họa sĩ, thường xuyên mất ngủ và tìm đến các phương pháp không dùng thuốc để cải thiện giấc ngủ. Nếu cô ấy vẽ tranh trong 2 giờ trước khi đi ngủ mỗi ngày trong 1 tuần, cô ấy đã dành bao nhiêu giờ để vẽ tranh?",
+    "label": [
+      "mat-ngu"
+    ]
+  },
+  {
+    "query": "315",
+    "query_content": "Một bệnh nhân nam đến phòng khám với nghi ngờ mình có tinh hoàn ẩn. Bác sĩ Thanh quyết định tiến hành một loạt xét nghiệm để xác định tính chất của tình trạng. Để xác định giới tính chính xác của bệnh nhân, bác sĩ Thanh nên yêu cầu xét nghiệm nào?",
+    "label": [
+      "tinh-hoan-an",
+      "tinh-hoan-lac-cho"
+    ]
+  },
+  {
+    "query": "314",
+    "query_content": "Bác sĩ Lan là chuyên gia nội tiết, cô đang xử lý một ca tinh hoàn ẩn phức tạp. Để loại trừ khả năng vôi hóa nhu mô tinh hoàn, cô nên yêu cầu loại xét nghiệm nào?",
+    "label": [
+      "tinh-hoan-an",
+      "tinh-hoan-lac-cho"
+    ]
+  },
+  {
+    "query": "317",
+    "query_content": "Bác sĩ Nguyệt đang giải thích cho sinh viên về tầm quan trọng của việc theo dõi các chỉ số tumor marker trong quản lý bệnh tinh hoàn. Cô nhấn mạnh rằng một số chỉ số cần được theo dõi chặt chẽ để phát hiện sớm các dấu hiệu của u ác tính. Chỉ số nào dưới đây không thuộc danh sách cô đưa ra?",
+    "label": [
+      "tinh-hoan-an",
+      "tinh-hoan-lac-cho"
+    ]
+  },
+  {
+    "query": "316",
+    "query_content": "Trong một hội nghị chuyên ngành về urology, giáo sư Tú chỉ ra rằng khi nghi ngờ u ác tính của tinh hoàn, có ba xét nghiệm chỉ điểm khối u cần được tiến hành. Trong những xét nghiệm sau, đâu không phải là một trong ba xét nghiệm chỉ điểm khối u đó?",
+    "label": [
+      "tinh-hoan-an",
+      "tinh-hoan-lac-cho"
+    ]
+  },
+  {
+    "query": "297",
+    "query_content": "Ông Bình, một kỹ sư phần mềm, đã quyết định thử các biện pháp không dùng thuốc để giải quyết vấn đề mất ngủ của mình. Trong các loại trà thảo mộc sau đây, loại trà nào không phải là lựa chọn của ông để uống trước khi ngủ?",
+    "label": [
+      "mat-ngu"
+    ]
+  },
+  {
+    "query": "300",
+    "query_content": "Giả sử Hoa là một bác sĩ thần kinh, cô đang điều trị cho một bệnh nhân bị liệt dây thần kinh số VII ngoại biên. Nếu tỷ lệ phục hồi của bệnh nhân là 75% sau mỗi tháng và bệnh nhân hiện đã phục hồi 45%, hỏi sau bao nhiêu tháng nữa, bệnh nhân sẽ phục hồi hoàn toàn?",
+    "label": [
+      "benh-than-kinh-ngoai-bien"
+    ]
+  },
+  {
+    "query": "298",
+    "query_content": "Trong một ngày mưa gió, Minh học sinh lớp 12 đang lo lắng về bài kiểm tra sinh học sắp tới. Anh ta đặc biệt quan tâm đến hệ thống thần kinh. Hệ thần kinh ngoại biên (PNS) gồm những bộ phận nào?",
+    "label": [
+      "benh-than-kinh-ngoai-bien"
+    ]
+  },
+  {
+    "query": "323",
+    "query_content": "Trong một bài giảng về sức khỏe não bộ, Giáo sư Đức nêu lên rằng đau đỉnh đầu có thể là triệu chứng cảnh báo của những bệnh lý nào?",
+    "label": [
+      "dau-dinh-dau"
+    ]
+  },
+  {
+    "query": "299",
+    "query_content": "Lan là một vận động viên thể dục dụng cụ đã 10 năm, thường xuyên phải đối mặt với những áp lực lớn trên cơ thể mình. Bệnh lý nào dưới đây không phải là hậu quả của tổn thương đối xứng trong hệ thần kinh ngoại biên?",
+    "label": [
+      "benh-than-kinh-ngoai-bien"
+    ]
+  },
+  {
+    "query": "302",
+    "query_content": "Hà, một nghiên cứu sinh về thần kinh, đang phân tích các yếu tố gây ra bệnh thần kinh ngoại biên. Cô ấy xác định một số nguyên nhân tiềm năng. Đâu không phải là nguyên nhân gây ra bệnh thần kinh ngoại biên?",
+    "label": [
+      "benh-than-kinh-ngoai-bien"
+    ]
+  },
+  {
+    "query": "325",
+    "query_content": "Trong một cuộc hội thảo y khoa, một bác sĩ chia sẻ rằng triệu chứng đau đỉnh đầu không được chú ý kỹ lưỡng có thể dẫn đến biến chứng nguy hiểm nào?",
+    "label": [
+      "dau-dinh-dau"
+    ]
+  },
+  {
+    "query": "324",
+    "query_content": "Khi Anh Nam trình bày với bác sĩ về những cơn đau đỉnh đầu gần đây, bác sĩ cảnh báo rằng cơn đau nếu chuyển biến nặng có thể liên quan đến biến chứng nào?",
+    "label": [
+      "dau-dinh-dau"
+    ]
+  },
+  {
+    "query": "326",
+    "query_content": "Bác sĩ Lan chia sẻ với bệnh nhân của mình rằng, cần phải cảnh giác với triệu chứng đau đỉnh đầu vì nó có thể là dấu hiệu sớm của tình trạng nào?",
+    "label": [
+      "dau-dinh-dau"
+    ]
+  },
+  {
+    "query": "329",
+    "query_content": "Bác sĩ Hồng đang giảng về chóng mặt kịch phát lành tính cho sinh viên y khoa và nêu lên một số nguyên nhân gây ra tình trạng này. Đâu KHÔNG phải là nguyên nhân được bác sĩ đề cập?",
+    "label": [
+      "chong-mat-kich-phat-lanh-tinh"
+    ]
+  },
+  {
+    "query": "328",
+    "query_content": "Trong một bài giảng về các rối loạn tai trong, giáo sư Minh đề cập đến một loại chóng mặt không thể xác định rõ nguyên nhân. Loại chóng mặt này được gọi là gì?",
+    "label": [
+      "chong-mat-kich-phat-lanh-tinh"
+    ]
+  },
+  {
+    "query": "327",
+    "query_content": "Trong một cuộc thảo luận với các sinh viên y khoa, Giáo sư Thanh nhấn mạnh tới tầm quan trọng của việc nhận diện sớm các triệu chứng đau đỉnh đầu. Ông đề cập đến việc để ý đến triệu chứng này vì nó có thể là báo động sớm cho biến chứng nào?",
+    "label": [
+      "dau-dinh-dau"
+    ]
+  },
+  {
+    "query": "330",
+    "query_content": "Bác sĩ Tâm chuyên khoa tai mũi họng đang trình bày về chóng mặt kịch phát lành tính và một trong những nguyên nhân thường gặp mà ông nhắc đến là gì?",
+    "label": [
+      "chong-mat-kich-phat-lanh-tinh"
+    ]
+  },
+  {
+    "query": "331",
+    "query_content": "Trong một hội nghị về chóng mặt kịch phát, một báo cáo đã nêu bật rằng nhiều trường hợp chóng mặt kịch phát lành tính không tìm ra được nguyên nhân cụ thể. Những trường hợp này thường được chẩn đoán như thế nào?",
+    "label": [
+      "chong-mat-kich-phat-lanh-tinh"
+    ]
+  },
+  {
+    "query": "332",
+    "query_content": "Bác sĩ Lan trong một buổi thảo luận với bệnh nhân mắc phải chóng mặt kịch phát lành tính, nhấn mạnh rằng một số trường hợp không tìm được nguyên nhân chính xác. Điều này thường gặp ở loại chóng mặt nào?",
+    "label": [
+      "chong-mat-kich-phat-lanh-tinh"
+    ]
+  },
+  {
+    "query": "301",
+    "query_content": "Hùng là một người thợ làm vườn. Trong khi đang cắt tỉa cây, anh ta bắt đầu nghĩ về cấu trúc của hệ thần kinh. Hệ thần kinh trung ương (CNS) bao gồm những gì?",
+    "label": [
+      "benh-than-kinh-ngoai-bien"
+    ]
+  },
+  {
+    "query": "333",
+    "query_content": "Một nhà khoa học nổi tiếng vừa phát hiện một phương pháp mới để chẩn đoán sớm ung thư vòm họng. Ung thư vòm họng bao gồm khu vực nào sau đây?",
+    "label": [
+      "ung-thu-vom-hong"
+    ]
+  },
+  {
+    "query": "335",
+    "query_content": "Một bác sĩ tài năng đã viết một luận văn dài về ung thư hầu họng. Hỏi hầu họng dài bao nhiêu centimet?",
+    "label": [
+      "ung-thu-vom-hong"
+    ]
+  },
+  {
+    "query": "334",
+    "query_content": "Trong một nghiên cứu mới nhất về hành trình của các tế bào ung thư, người ta phát hiện rằng ung thư vòm họng thường có nguồn gốc từ loại tế bào nào?",
+    "label": [
+      "ung-thu-vom-hong"
+    ]
+  },
+  {
+    "query": "336",
+    "query_content": "Trong một bài giảng về ung thư, giáo sư đã mô tả vòm họng như một phần của cơ thể nằm ở đâu?",
+    "label": [
+      "ung-thu-vom-hong"
+    ]
+  },
+  {
+    "query": "337",
+    "query_content": "Một cuộc thảo luận về các phương pháp điều trị ung thư đầu và cổ đã chỉ ra rằng ung thư vòm họng thường gặp trong nhóm ung thư nào?",
+    "label": [
+      "ung-thu-vom-hong"
+    ]
+  },
+  {
+    "query": "309",
+    "query_content": "Trong một cuộc hội thảo về y học, bác sĩ Hồng từ Bệnh viện Tâm Anh đã thảo luận về chóng mặt. Bệnh chóng mặt tư thế kịch phát lành tính thường tự khỏi sau bao lâu theo ông?",
+    "label": [
+      "nam-xuong-bi-chong-mat"
+    ]
+  },
+  {
+    "query": "308",
+    "query_content": "Một ngày nọ, Bác sĩ Minh từ hệ thống Bệnh viện Đa khoa Tâm Anh giới thiệu về hệ thống máy chụp CT độc đáo của họ. Ông nhắc đến máy CT có bao nhiêu lát cắt trong bài giảng của mình?",
+    "label": [
+      "nam-xuong-bi-chong-mat"
+    ]
+  },
+  {
+    "query": "310",
+    "query_content": "Giả sử bạn đang lên kế hoạch đi khám tại Bệnh viện Đa khoa Tâm Anh và bạn ở cách bệnh viện 100 km. Nếu bạn đi bằng xe có vận tốc trung bình là 50 km/h, bạn cần bao nhiêu thời gian để đến bệnh viện?",
+    "label": [
+      "nam-xuong-bi-chong-mat"
+    ]
+  },
+  {
+    "query": "311",
+    "query_content": "Bác sĩ Nam, một chuyên gia về thần kinh tại Bệnh viện Đa khoa Tâm Anh, quyết định thực hiện một thủ thuật tái định vị sỏi tai cho một bệnh nhân. Ông mô tả bốn phương pháp khác nhau, nhưng chỉ có ba phương pháp thực sự liên quan đến điều trị chóng mặt. Phương pháp nào dưới đây không phải là một phần của điều trị chóng mặt?",
+    "label": [
+      "nam-xuong-bi-chong-mat"
+    ]
+  },
+  {
+    "query": "312",
+    "query_content": "Một bác sĩ đang tư vấn cho bệnh nhân về cách quản lý tình trạng chóng mặt. Ông khuyên nên bổ sung vitamin và khoáng chất. Nếu một viên vitamin chứa 5 mg sắt và bác sĩ khuyến nghị bệnh nhân cần 15 mg sắt mỗi ngày, bệnh nhân cần uống bao nhiêu viên vitamin?",
+    "label": [
+      "nam-xuong-bi-chong-mat"
+    ]
+  },
+  {
+    "query": "348",
+    "query_content": "Anh Quang, người thợ may nổi tiếng ở làng biển Nghĩa Hưng, mỗi ngày đều bắt gặp hình ảnh những con giun đũa bò ra từ những tấm vải thừa. Quang muốn tìm hiểu về phương pháp điều trị giun đũa. Thuốc nào dưới đây không được sử dụng để điều trị giun đũa?",
+    "label": [
+      "benh-giun-dua"
+    ]
+  },
+  {
+    "query": "349",
+    "query_content": "Bác Hồng, một bác sĩ giàu kinh nghiệm, đã khám cho hàng trăm bệnh nhân mắc bệnh giun đũa. Theo kinh nghiệm của bác, liều lượng Mebendazole 100mg cần được dùng bao nhiêu lần trong 3 ngày để điều trị bệnh giun đũa hiệu quả?",
+    "label": [
+      "benh-giun-dua"
+    ]
+  },
+  {
+    "query": "350",
+    "query_content": "Chị Lan, một nhà giáo dục, đang soạn giáo án về các bệnh do ký sinh trùng gây ra. Chị ấy muốn bổ sung thông tin về liều lượng của Albendazole khi điều trị giun đũa. Chị Lan nhớ không chính xác và bạn cần giúp chị ấy. Hỏi liều lượng đúng của Albendazole là bao nhiêu?",
+    "label": [
+      "benh-giun-dua"
+    ]
+  },
+  {
+    "query": "351",
+    "query_content": "Cô Thủy, giáo viên môn Sinh học, đang chuẩn bị bài giảng về các phương pháp điều trị giun đũa. Cô ấy muốn sinh viên của mình hiểu rằng không cần nhịn ăn khi dùng thuốc điều trị này. Thuốc nào sau đây cô Thủy nên khuyên sinh viên không cần nhịn ăn khi dùng?",
+    "label": [
+      "benh-giun-dua"
+    ]
+  },
+  {
+    "query": "352",
+    "query_content": "Bạn Giang Mai phát hiện mình mang thai được 4 tháng và biết rằng thời gian mang thai trung bình là 9 tháng. Giả sử bạn ấy quan tâm đến việc điều trị giun đũa và muốn tính toán thời gian còn lại của thai kỳ để tránh ảnh hưởng đến em bé. Hỏi bạn Giang Mai còn bao nhiêu tháng nữa để hoàn thành thai kỳ?",
+    "label": [
+      "benh-giun-dua"
+    ]
+  },
+  {
+    "query": "340",
+    "query_content": "Một bệnh nhân bị đau nhức cơ thể và lo sợ rằng đây có thể là dấu hiệu của men gan cao. Các loại men gan thường gặp bao gồm những loại nào sau đây?",
+    "label": [
+      "men-gan-cao"
+    ]
+  },
+  {
+    "query": "339",
+    "query_content": "Trong một bài giảng về chức năng gan, giáo sư đã đề cập đến việc nồng độ men gan tăng cao không nhất thiết là dấu hiệu của bệnh gì?",
+    "label": [
+      "men-gan-cao"
+    ]
+  },
+  {
+    "query": "338",
+    "query_content": "Một người đàn ông khám sức khỏe định kỳ và lo lắng khi bác sĩ nói rằng ông có men gan cao. Men gan trong y học có tác dụng gì?",
+    "label": [
+      "men-gan-cao"
+    ]
+  },
+  {
+    "query": "341",
+    "query_content": "Trong một cuộc họp về sức khỏe cộng đồng, một bác sĩ chia sẻ rằng thường bao lâu nồng độ men gan tăng cao do yếu tố như phản ứng với thuốc sẽ trở lại bình thường?",
+    "label": [
+      "men-gan-cao"
+    ]
+  },
+  {
+    "query": "358",
+    "query_content": "Một người đàn ông tên là An, 52 tuổi, thường xuyên thức giấc vào ban đêm để đi tiểu. Điều này gợi ý về vấn đề gì?",
+    "label": [
+      "tieu-dem"
+    ]
+  },
+  {
+    "query": "359",
+    "query_content": "Hà, một y tá, biết rằng dung tích bàng quang của người trưởng thành khỏe mạnh là bao nhiêu ml?",
+    "label": [
+      "tieu-dem"
+    ]
+  },
+  {
+    "query": "360",
+    "query_content": "Cô giáo Thủy giảng về hệ thống thần kinh, hỏi học sinh về cơ chế của bàng quang vào ban đêm. Học sinh nào sau đây có câu trả lời đúng?",
+    "label": [
+      "tieu-dem"
+    ]
+  },
+  {
+    "query": "361",
+    "query_content": "Một bệnh nhân 60 tuổi tên là Bình thức giấc 3 lần mỗi đêm để đi tiểu. Điều này có thể chỉ ra bệnh gì?",
+    "label": [
+      "tieu-dem"
+    ]
+  },
+  {
+    "query": "342",
+    "query_content": "Một người phụ nữ trong một bài thuyết trình về cách chăm sóc sức khỏe bản thân đã hỏi, men gan cao thường cảnh báo về tình trạng nào của gan?",
+    "label": [
+      "men-gan-cao"
+    ]
+  },
+  {
+    "query": "362",
+    "query_content": "Trong một bài kiểm tra sức khỏe cộng đồng, một bác sĩ nhận thấy rằng người cao tuổi có tỷ lệ tiểu đêm cao. Câu hỏi nào sau đây phản ánh đúng mối quan hệ giữa tiểu đêm và tuổi tác?",
+    "label": [
+      "tieu-dem"
+    ]
+  },
+  {
+    "query": "343",
+    "query_content": "Giả sử một nhà nghiên cứu vũ trụ đang tìm hiểu về các hiện tượng cơ thể trong không gian và quan tâm đến việc phân biệt sa trực tràng và bệnh trĩ. Bệnh sa trực tràng khác bệnh trĩ như thế nào?",
+    "label": [
+      "sa-truc-trang"
+    ]
+  },
+  {
+    "query": "344",
+    "query_content": "Trong một buổi hội thảo về thiên văn, một học giả đã đưa ra ví dụ về việc tính toán thời gian hồi phục sau phẫu thuật sa trực tràng. Nếu thời gian hồi phục hoàn toàn thông thường là 3 tháng, hỏi người bệnh cần bao nhiêu tuần để phục hồi?",
+    "label": [
+      "sa-truc-trang"
+    ]
+  },
+  {
+    "query": "345",
+    "query_content": "Một bác sĩ tâm lý, trong lúc nghiên cứu về ảnh hưởng của stress đối với sức khỏe, đã đề cập đến nguy cơ tái phát sau phẫu thuật sa trực tràng. Nếu điều trị sớm và đúng cách, khả năng tái phát sau phẫu thuật sa trực tràng là như thế nào?",
+    "label": [
+      "sa-truc-trang"
+    ]
+  },
+  {
+    "query": "346",
+    "query_content": "Một nhà sinh vật học so sánh sự tái tạo của tế bào với việc chữa trị sa trực tràng và đặt câu hỏi, sa trực tràng có chữa khỏi hoàn toàn được không?",
+    "label": [
+      "sa-truc-trang"
+    ]
+  },
+  {
+    "query": "347",
+    "query_content": "Một chuyên gia dinh dưỡng quan tâm đến các vấn đề tiêu hóa, hỏi đâu là đơn vị thăm khám và điều trị các bệnh về tiêu hóa, bao gồm cả sa trực tràng, nổi tiếng?",
+    "label": [
+      "sa-truc-trang"
+    ]
+  },
+  {
+    "query": "354",
+    "query_content": "Cô Hà, một giáo viên mầm non, muốn giáo dục học sinh của mình về các biện pháp phòng ngừa viêm amidan. Cô nên khuyến khích học sinh thực hiện biện pháp nào sau đây?",
+    "label": [
+      "viem-amidan"
+    ]
+  },
+  {
+    "query": "353",
+    "query_content": "Bé Nam vừa được chẩn đoán viêm amidan, bố mẹ bé Nam lo lắng và muốn tìm hiểu cách phòng ngừa tái phát. Hỏi bố mẹ bé Nam nên chú ý đến chế độ dinh dưỡng nào sau đây để tăng cường hệ miễn dịch cho bé?",
+    "label": [
+      "viem-amidan"
+    ]
+  },
+  {
+    "query": "356",
+    "query_content": "Chú Long, một người đàn ông 45 tuổi với tiền sử viêm amidan, quyết định thay đổi lối sống để phòng bệnh. Theo bạn, chú Long nên bắt đầu từ việc nào dưới đây?",
+    "label": [
+      "viem-amidan"
+    ]
+  },
+  {
+    "query": "355",
+    "query_content": "Anh Minh, một nhân viên văn phòng, thường xuyên phải làm việc trong môi trường điều hòa và đã mắc viêm amidan nhiều lần. Anh ấy nên áp dụng biện pháp nào sau đây để giảm nguy cơ tái phát bệnh?",
+    "label": [
+      "viem-amidan"
+    ]
+  },
+  {
+    "query": "357",
+    "query_content": "Chị Mai là một bác sĩ chuyên khoa tai mũi họng, chị thường khuyến cáo bệnh nhân của mình những biện pháp nào để phòng ngừa viêm amidan tái phát?",
+    "label": [
+      "viem-amidan"
+    ]
+  }
+]
